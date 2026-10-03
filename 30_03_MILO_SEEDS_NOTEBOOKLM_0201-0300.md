@@ -15,6 +15,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0201",
+  "seed_hash": "1d6b69a845d40f2c9af6f0f307c42dc73c9f691459bd9184826db66be4b606f7",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "primera_vez",
@@ -113,6 +114,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0202",
+  "seed_hash": "b44dfcda672475855b1478ad22719ea508c8d019f57a9fdcda5a0bbc29376805",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_2",
@@ -215,6 +217,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0203",
+  "seed_hash": "72ab36d84f318d6897ca077a174dcf06f164dcf7e02bea927e5982f4bc8b825c",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_3",
@@ -317,6 +320,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0204",
+  "seed_hash": "d6f7061488011567361ae5e7ed68fb1287900595e4e0c3b60adf87b6e1938f2d",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_4",
@@ -419,6 +423,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0205",
+  "seed_hash": "fc28b062ecfddd59ba09a54c241092427499c774143b2633527a3a97f51f4c17",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_5",
@@ -521,6 +526,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0206",
+  "seed_hash": "838bf6aa0f87e2008a236a450fcbfb79718e5e74bf48e1c5c3f60903adef351c",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_6",
@@ -623,6 +629,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0207",
+  "seed_hash": "132837c2668393f21bc434684a5f4f0648b76e4582fd5402a125245a2a57d2eb",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_7",
@@ -725,6 +732,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0208",
+  "seed_hash": "93b8f4aac0248d6838db70664a4cb0b4fe3d4944bf7fe60c50527a606ce471fd",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_8",
@@ -827,6 +835,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0209",
+  "seed_hash": "4b6a03232debc716003636c687e2f3d4a3a95b9dab5d105c46e2402d46fd01b2",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_9",
@@ -929,6 +938,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0210",
+  "seed_hash": "34a706fa850f74c41e4a59f8ac7bbbadcb171823e7aedff9fd0cb515304864e4",
   "family_id": "F021",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_10",
@@ -1031,6 +1041,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0211",
+  "seed_hash": "dc1a07b283ac703278cf4b65d203858fbf143bded306285e4087288b895b1d5d",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "primera_vez",
@@ -1129,6 +1140,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0212",
+  "seed_hash": "e998da7fb214edfdcdd776b71698ddc0df2dfc24809e3cc68156018e85ecc3c4",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_2",
@@ -1231,6 +1243,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0213",
+  "seed_hash": "c542887ec23cbc448d914febeaf1bdf0c07df9b262cd4b8b611a3d92bdce99aa",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_3",
@@ -1333,6 +1346,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0214",
+  "seed_hash": "b7fcf0c6b115539bf2785e2247acbe4d2a8fbfaee9a6689f8a1b46bf20bd7377",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_4",
@@ -1435,6 +1449,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0215",
+  "seed_hash": "bc0554faadc0bb3a943b8703055c1ac701dbec4c4a4d908b89122527e2ff08b5",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_5",
@@ -1537,6 +1552,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0216",
+  "seed_hash": "529601555198b8976dc7ed77693c2d293e7d90bd0ecf1530e633712b2d1b7c40",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_6",
@@ -1639,6 +1655,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0217",
+  "seed_hash": "478be507640b1b9f8d5f743f8e4b04a1deb9e0fe70d14ea79e252cf268b8426e",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_7",
@@ -1741,6 +1758,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0218",
+  "seed_hash": "93a74832a7be08a0cdbcb33bd95c28f4ba118d9027e9beada3c736e9d53c2ded",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_8",
@@ -1843,6 +1861,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0219",
+  "seed_hash": "f3efe4a4b5effdb15cf0fc4a31aa08562d47a5c07a89be5ca89045031d6dd181",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_9",
@@ -1945,6 +1964,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0220",
+  "seed_hash": "855eb4696bd8d74bfe5c4bb7552e70e782e5693979ff71eb97fdd250280b087d",
   "family_id": "F022",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_10",
@@ -2047,6 +2067,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0221",
+  "seed_hash": "2e19087ec284b8feff9255d76ea82df2db9d2aff9672e9ddb929082ecab88f12",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "primera_vez",
@@ -2144,6 +2165,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0222",
+  "seed_hash": "b6ff4f2d249b9efbd8adbb8f93455c15fc8a26953cecc093d7d59c78ceea0bfd",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_2",
@@ -2246,6 +2268,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0223",
+  "seed_hash": "f783614bd64b4bda1714619a1081bd527cd60253a56ee326ba19f96f5ab45662",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_3",
@@ -2348,6 +2371,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0224",
+  "seed_hash": "812bd0879fe2fae85c5e39e36672a9f2fa27bf1f58b239220606c8452704e4ce",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_4",
@@ -2450,6 +2474,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0225",
+  "seed_hash": "3a994e6da5a39cebc650a295e00f5d288b335198834f61f7e469a1cd2137d199",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_5",
@@ -2552,6 +2577,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0226",
+  "seed_hash": "792480d25dad1951c0870b0e2a1d5dcbaae1448f589b059b0e635f1bd3e4bdee",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_6",
@@ -2654,6 +2680,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0227",
+  "seed_hash": "ce526613ebfa3730ef013ada231b26721cce711f7c5a32b208a82db06823cf04",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_7",
@@ -2756,6 +2783,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0228",
+  "seed_hash": "dbea8745828f63ff3a58f02e2cd2bc50523aa79436fb3c8ced06a6be5d807454",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_8",
@@ -2858,6 +2886,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0229",
+  "seed_hash": "7e213fd4027f42834890a5117ba83f5f3c6c9942be4cb22d40a702e01cd4f446",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_9",
@@ -2960,6 +2989,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0230",
+  "seed_hash": "b89aae11aa5a3c4abfc0cd344c272cb2edf5d6df2bea8451e1267d910d65b36c",
   "family_id": "F023",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_10",
@@ -3062,6 +3092,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0231",
+  "seed_hash": "13d83caf3d91dcd6c5c8717ffbed0c9bb2bd464c89f678a77b6793b738e9d4ff",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "primera_vez",
@@ -3160,6 +3191,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0232",
+  "seed_hash": "7600715a607ad6e16f03c288820fa863b7fb7ef586b4de7ae376e9d8f0069c6c",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_2",
@@ -3262,6 +3294,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0233",
+  "seed_hash": "ca6d452cb41c0d7ae363df658beef2b802e502f739b1f4573c0f852dfdf5a01b",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_3",
@@ -3364,6 +3397,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0234",
+  "seed_hash": "1d05ca4bf950cf35d526bf274caeddf467ec089be2a140ce93b091ac3e45abe5",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_4",
@@ -3466,6 +3500,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0235",
+  "seed_hash": "9edf64121457423c68ac44ffdd0b95d4dec30c9491dbccc09f04a15523beb439",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_5",
@@ -3568,6 +3603,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0236",
+  "seed_hash": "10b770a57870ef7edf1436ab19635bbd95b23e156c80367f6147d822fc19cfbc",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_6",
@@ -3670,6 +3706,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0237",
+  "seed_hash": "c0f1830801e689a52d216ff60c720a762bf1ade7d8770f7ac5bf5fe59edd7737",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_7",
@@ -3772,6 +3809,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0238",
+  "seed_hash": "bb247f581adb1bc2c8643752faa7aa1fb6887bd6f7fd14d9f4ab35168060b912",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_8",
@@ -3874,6 +3912,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0239",
+  "seed_hash": "483b098501d3c292545dfa5ec216e449cb1bc7b2a8e8f6f49ec279e75830534b",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_9",
@@ -3976,6 +4015,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0240",
+  "seed_hash": "d000b6d48b37a0c3f0cefec2e9bb44b58d3d1353c3260dd93880909baedc9401",
   "family_id": "F024",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_10",
@@ -4078,6 +4118,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0241",
+  "seed_hash": "cfa29f59bc70f68f3c4a040e1c74c4e1f3633e9426b31c740b86436b81cc8684",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "primera_vez",
@@ -4176,6 +4217,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0242",
+  "seed_hash": "b8aa18f13dc7d9589ec8a867b9d48c45e41091eaad5befc999fa6610126f9361",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_2",
@@ -4278,6 +4320,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0243",
+  "seed_hash": "1eb3c460b7c91f3fce274cd22637142e2d95d5617a372e490323dd48e6ad1ff3",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_3",
@@ -4380,6 +4423,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0244",
+  "seed_hash": "b92ff6817face7cf8b56ed01c127389a756be421ff8671b495d5fe0d185ea15a",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_4",
@@ -4482,6 +4526,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0245",
+  "seed_hash": "2884a764f894e6f22607aa461e0b78d01991ef0b124784ac0a2269aa7018dd7d",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_5",
@@ -4584,6 +4629,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0246",
+  "seed_hash": "7de5a6bff9ea92cef34b53c28586c0e635a322533364024345e4286952c9008b",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_6",
@@ -4686,6 +4732,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0247",
+  "seed_hash": "2cd9973ce787d66fcfb5f3433fe5d1f6a7ca97f8b6d2ff05e8a4d1157e338159",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_7",
@@ -4788,6 +4835,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0248",
+  "seed_hash": "42641d7bc6dcb16721837d4bb14f26279cb926e602b749e90e53888b02220227",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_8",
@@ -4890,6 +4938,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0249",
+  "seed_hash": "98f5ac11744ba9de5a8997388bbf0f54f40f116f190f8582b69e804e2c667f31",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_9",
@@ -4992,6 +5041,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0250",
+  "seed_hash": "6c7ae38b1e681ced2a9f94e06c9210b0717791ae5193b55ca5c38a24187d81c4",
   "family_id": "F025",
   "territorio": "Hermanos y distancia",
   "angulo": "arco_causal_10",
@@ -5094,6 +5144,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0251",
+  "seed_hash": "33b4b9e2e77747ded08cad6806202ab070a04fdfaebf50d03a65b0a107b7fc12",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "primera_vez",
@@ -5191,6 +5242,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0252",
+  "seed_hash": "ae03ee1081df4468f62c3849415a1571084568b23c8a0dd8ab09e63eab33b5ac",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_2",
@@ -5293,6 +5345,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0253",
+  "seed_hash": "e674570cdd47356d9c9906c19e3c5a222af397d44a25ef4614fa4e1cde345db2",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_3",
@@ -5395,6 +5448,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0254",
+  "seed_hash": "fde5a758521cfa008a2d8efa76fc85f5f97a7eca2c23b5de6df99175bcbb2c35",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_4",
@@ -5497,6 +5551,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0255",
+  "seed_hash": "26ac73465f9a86ac6cc3c7c0d66d6f576662cefd5b5cd54dcf69b7c60d72013b",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_5",
@@ -5599,6 +5654,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0256",
+  "seed_hash": "7adbf7f7597942b731aa4d45f30f75e42a2f3987a226106efa808c782c3cc63f",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_6",
@@ -5701,6 +5757,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0257",
+  "seed_hash": "076b7114df1ac8630bbaeffcd90a930d69a713e601cc3e757fd69712a8e64428",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_7",
@@ -5803,6 +5860,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0258",
+  "seed_hash": "96bbfa919d8a6dc1ad9a139837e271e5a67b7b9874de4fb5f4548060fa661255",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_8",
@@ -5905,6 +5963,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0259",
+  "seed_hash": "5f072ad6594e883483693618f09e1be2a2eb2f04aa06e00f0db6bbd98efb42ca",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_9",
@@ -6007,6 +6066,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0260",
+  "seed_hash": "4613ce255ff73770380196c50d0b01ed27d2435136dfd70dddcea233019dd797",
   "family_id": "F026",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_10",
@@ -6109,6 +6169,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0261",
+  "seed_hash": "a9332aa207223389f4141b5146b3473d4ec7bba7cccf16d7419655bdc4b266c4",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "primera_vez",
@@ -6206,6 +6267,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0262",
+  "seed_hash": "d60bf4531c1c370dc7a38b4d4cab6ef5695735cb0e7d829f27116c7328ea1219",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_2",
@@ -6308,6 +6370,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0263",
+  "seed_hash": "3c5e81f50d22ab98fda9056bd1e7b1cab683889d73671ca0a6125568da2e642c",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_3",
@@ -6410,6 +6473,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0264",
+  "seed_hash": "a21f104a0ebe7283999999fb698cca03ec8e1556e03301a9ad512c20f175f2fb",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_4",
@@ -6512,6 +6576,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0265",
+  "seed_hash": "9e967bb984af9ff353fc7d2d8bca566597b313325b637649666efa5b2976bc42",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_5",
@@ -6614,6 +6679,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0266",
+  "seed_hash": "ddc4ab03312bafdc8e41859ba614f01a345ebe6dde1e7a4cee53d4e44bb00fe0",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_6",
@@ -6716,6 +6782,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0267",
+  "seed_hash": "147e98907543e1833b16645f6e29a9be264b139c13168fa4a8945aa22f07cc42",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_7",
@@ -6818,6 +6885,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0268",
+  "seed_hash": "d7b93d941a29e3a1a3f620abc6166158d8b8cc110a1ca2669f84bfd5702cdc6a",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_8",
@@ -6920,6 +6988,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0269",
+  "seed_hash": "8555c8c8119881ea5a9c5a74d2c172ca17e4b510d4540068f59cd28c82116053",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_9",
@@ -7022,6 +7091,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0270",
+  "seed_hash": "ed31f7050b660780d32ec5ec1174d73882eb4d7b9e41937ebd59139fdd7cf3d7",
   "family_id": "F027",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_10",
@@ -7124,6 +7194,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0271",
+  "seed_hash": "79c41c4b37d8eb0c818d413a2008e163ad7e69f6d4f74c7c7bb17b43c7e4e2d8",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_1",
@@ -7226,6 +7297,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0272",
+  "seed_hash": "b3b6ca9a7a443d611a8a248a6138e9dac1ab56dd711788db5d7a0d64538e9ea6",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_2",
@@ -7328,6 +7400,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0273",
+  "seed_hash": "212f89649bea26affab31651e2ac87aaaad6cba5497b5014e0467914b1954b73",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_3",
@@ -7430,6 +7503,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0274",
+  "seed_hash": "02506c24a3b7e6cfb036025f3fc587bdce66f16478c95e26529b89cb0624c06a",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_4",
@@ -7532,6 +7606,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0275",
+  "seed_hash": "aa49325159232d967d1c5b2065b0d964945fba7d787cdd1670965caaf56ff283",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_5",
@@ -7634,6 +7709,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0276",
+  "seed_hash": "c193065e0ae2ba92a6ee249a877be1a5800ea26ca9e70c72e36b79c540616385",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_6",
@@ -7736,6 +7812,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0277",
+  "seed_hash": "bc76045332372d1e21b98641c5de389f5f81d6c35b3def5f8b18ec5e8f669d51",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_7",
@@ -7838,6 +7915,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0278",
+  "seed_hash": "bf56dfdf1f6e5b9a056ed9815a678fe0e9cdbbf932f56266ac11001e21a42952",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_8",
@@ -7940,6 +8018,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0279",
+  "seed_hash": "4d3816eb9ad0bd73bd1095c5f4ed521003c01e8a10da23d870adc48a8e6e514c",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_9",
@@ -8042,6 +8121,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0280",
+  "seed_hash": "21a23f17c7cc539d810ca3119ad5b4d5211f6875caad7ac03c74989b1111aa7a",
   "family_id": "F028",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_10",
@@ -8144,6 +8224,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0281",
+  "seed_hash": "afb1e47cb0ccf6946a68b0ba9ef185e7fc92eb7edabd7df1195d41e8109459aa",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "primera_vez",
@@ -8241,6 +8322,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0282",
+  "seed_hash": "671c1b5429ec72460d1923308c93c01d1086707299c99b6c178e9b169ec3b808",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_2",
@@ -8343,6 +8425,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0283",
+  "seed_hash": "f4209b549b11d4f9ed5b2b64f3e1a17eaa7a17ae1d368ff69a5f94ac51f31dcc",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_3",
@@ -8445,6 +8528,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0284",
+  "seed_hash": "dc4674cd260e45c2e76627ca4c94b75f2cb7944b15c845b0d4dad85c0354cd55",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_4",
@@ -8547,6 +8631,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0285",
+  "seed_hash": "c9e12d3d2f102ed6cd04c2445f6499e705e149311b8b32b4aa108fa84a447097",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_5",
@@ -8649,6 +8734,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0286",
+  "seed_hash": "16f70e69c1cd93ceffb1a2a9a927756428f8bc7aa0d7340c78649b16735f3361",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_6",
@@ -8751,6 +8837,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0287",
+  "seed_hash": "5863891ce26a3dc24773ce8a27c1ec2cc49d72f4e53e538fa1256ba845e2c210",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_7",
@@ -8853,6 +8940,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0288",
+  "seed_hash": "b67a542d6f9362035dcdae459a272944782fe13d7788e2543a210d72989459f9",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_8",
@@ -8955,6 +9043,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0289",
+  "seed_hash": "a555d1d059051fb15f5276dfa559c806f9198999162144328b4c3a0f7f5547d8",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_9",
@@ -9057,6 +9146,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0290",
+  "seed_hash": "f66c7a69e3b2bb015d21c68154e9038bb11643723e49835c34506f4e9a5d1153",
   "family_id": "F029",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_10",
@@ -9159,6 +9249,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-S0291",
+  "seed_hash": "49c69959a83f3b615afdb6b6868a67bcf297dc4e03d17b42d39765aa48dcf4c1",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "primera_vez",
@@ -9256,6 +9347,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0292",
+  "seed_hash": "70ea9dfe2ec07fbe90889353a46ea4ec0227bfe5be84e521b7ee68262886a825",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_2",
@@ -9358,6 +9450,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0293",
+  "seed_hash": "415ca90718d499b6192dd2d3d46be7685c22c82a10e626a719325976c4532702",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_3",
@@ -9460,6 +9553,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0294",
+  "seed_hash": "89d10de14eb9d13bda1f7f908628cecbcf445b47fa566ba7d6945d8959d8dcb2",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_4",
@@ -9562,6 +9656,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0295",
+  "seed_hash": "6cd41f83d2edf3927484db683ecfa299d3ca670ea07496fed520602e357eb87b",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_5",
@@ -9664,6 +9759,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0296",
+  "seed_hash": "b315de80d39bbf8bbfbf643debd73d54c40d89fa20695f0065be546151c10b49",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_6",
@@ -9766,6 +9862,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0297",
+  "seed_hash": "a5c94e20d93ad183ede97efafaf0b22e50b308a78549956212d9c584b374d1de",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_7",
@@ -9868,6 +9965,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0298",
+  "seed_hash": "7c222a0695ec5dce138438a77fc78ecb42379b9d65ca14787e0ea4ecc0445198",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_8",
@@ -9970,6 +10068,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0299",
+  "seed_hash": "543b0d7ac93c764b0a1f0d7cfbf507378ace6cc5daddf1cb803540b5063a656a",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_9",
@@ -10072,6 +10171,7 @@ Registros: `0201–0300`
 ```json
 {
   "seed_id": "MILO-R0300",
+  "seed_hash": "a814140e295a973fdee649f2fd06fa2aeaba89c02f8ab010804114ecd1f3feae",
   "family_id": "F030",
   "territorio": "Infancia y escucha",
   "angulo": "arco_causal_10",

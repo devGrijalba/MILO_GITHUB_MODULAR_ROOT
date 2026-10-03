@@ -1,6 +1,6 @@
 # MILO ENGINE MANIFEST
 
-engine_version: `7.0.1-MODULAR`
+engine_version: `7.0.2-MODULAR`
 
 ## ORDEN DE ESTADOS
 
@@ -19,6 +19,7 @@ Leer:
 Leer:
 - `04_SEED_SNAPSHOT_NORMALIZATION.md`
 - `18_SEED_HEADER_NORMALIZATION.md`
+- `23_SEED_HASH_INTEGRITY.md`
 
 ### STATE 04 — SCRIPT_BUILD
 Leer:

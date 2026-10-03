@@ -32,7 +32,7 @@ La ejecución debe congelar una versión de engine al inicio.
 
 Versión actual:
 
-`MILO_ENGINE_VERSION = 7.0.1-MODULAR`
+`MILO_ENGINE_VERSION = 7.0.2-MODULAR`
 
 El archivo de entrada principal es:
 
@@ -68,3 +68,11 @@ El LLM NO debe cargar todos los módulos simultáneamente salvo que el entorno l
 - selección automática ya no escanea 1000 semillas;
 - ausencia de historial ya no puede bloquear;
 - STATE 02 usa índice precomputado + estado explícito.
+
+
+## CAMBIOS 7.0.2
+
+- `seed_hash` añadido dentro de cada registro canónico en `30_01...30_10`.
+- nuevo `23_SEED_HASH_INTEGRITY.md`.
+- STATE 03 valida identidad completa de hash.
+- el motor modular ya no depende de una fuente externa para recuperar hashes.

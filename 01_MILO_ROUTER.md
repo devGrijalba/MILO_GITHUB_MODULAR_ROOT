@@ -1,6 +1,6 @@
 # MILO ROUTER
 
-Engine version: `7.0.1-MODULAR`
+Engine version: `7.0.2-MODULAR`
 
 Este archivo controla el flujo modular.
 

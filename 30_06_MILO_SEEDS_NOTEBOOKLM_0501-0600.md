@@ -15,6 +15,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0501",
+  "seed_hash": "dce0105c9cebde223c19650e2250e233f640f2183c2b18c8c7e03f64faf5b5ec",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "primera_vez",
@@ -112,6 +113,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0502",
+  "seed_hash": "6c445eda62855ecb56b6ab54e1096edca69f4f9450509574a850800fad035e68",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_2",
@@ -214,6 +216,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0503",
+  "seed_hash": "1cc9f87235e88407cc3725ccce8d7a95c28d6f5f7923448bedd77d5f9137674a",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_3",
@@ -316,6 +319,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0504",
+  "seed_hash": "e20707170a1033db4384563dfee3b1289ae196369bee6705468fdb9988cabaf7",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_4",
@@ -418,6 +422,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0505",
+  "seed_hash": "1e19bd08ea3c32bd51bcfaf8c30a139fff9734cd97c902be4f0ead1e62c1975b",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_5",
@@ -520,6 +525,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0506",
+  "seed_hash": "575d64ec8c2eed8981122e4391fb9d5cdd40fa33140c9d6298005960e132d480",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_6",
@@ -622,6 +628,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0507",
+  "seed_hash": "8fc292590999106f1b415fff06efff946cfb9013296977457b6b9b8d2884845e",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_7",
@@ -724,6 +731,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0508",
+  "seed_hash": "99dce8eae3d121ed0e9b8731c4a0e774f2e1c603e94799afdce513641282f06c",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_8",
@@ -826,6 +834,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0509",
+  "seed_hash": "67cf69ee6d643e88755a76babb8d84fb983ef2e433fa16fa4e1a1300f5bd2195",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_9",
@@ -928,6 +937,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0510",
+  "seed_hash": "3d220e36cff374816ad30183a9d0ea0334e96ba461fed3e5e0b7423c121a99d6",
   "family_id": "F051",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_10",
@@ -1030,6 +1040,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0511",
+  "seed_hash": "bf7016e2188434649b6aa9d67c8f4d0532600d6f32bbe786fb65318ddaf3e9c0",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "primera_vez",
@@ -1127,6 +1138,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0512",
+  "seed_hash": "2e5dcef12b690372287c30d50de0263d8b0845ccce4204daf56f1faf0f03f985",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_2",
@@ -1229,6 +1241,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0513",
+  "seed_hash": "db43b62ca61e6483ce24a7b71bcd4f34d4f5cf775cfcc43287189941d8ec26ea",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_3",
@@ -1331,6 +1344,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0514",
+  "seed_hash": "747daf0b2cfc005266219f0ce304731f7ab7ea9a1709253a1e10bb3dbc3ba5be",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_4",
@@ -1433,6 +1447,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0515",
+  "seed_hash": "511f0b7e3156f70d447881d2afc1152ae6bb92fc5485b775db91abc2de4d807d",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_5",
@@ -1535,6 +1550,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0516",
+  "seed_hash": "2b72f7efaddb01d2ca44fbefd7b92d63fd4d891515fe8013ffeffdb202f0858f",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_6",
@@ -1637,6 +1653,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0517",
+  "seed_hash": "a38833a93f706ee9f8f34e68d46ab11406368e01e952408c3e7444a8c3cc3b60",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_7",
@@ -1739,6 +1756,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0518",
+  "seed_hash": "0dbe53f3a7b455d1988cf43fd1ca99ab8e9e8f8f77448a4bdba582a8b75e8e4a",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_8",
@@ -1841,6 +1859,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0519",
+  "seed_hash": "f312d9ce0fbaf419d3cbfa8c0bd0e49a6197d9f755b096aca4c33930b2e85f8c",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_9",
@@ -1943,6 +1962,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0520",
+  "seed_hash": "4d0542d90590de70d083f84387c0156f4b0e1dbbc8cbaa9c25515c6535bdd84e",
   "family_id": "F052",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_10",
@@ -2045,6 +2065,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0521",
+  "seed_hash": "81c4d0d7e67525c1016aea68c3fff6dfabd73fd8387b6e55a2dcd48b1acc9fe6",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "primera_vez",
@@ -2142,6 +2163,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0522",
+  "seed_hash": "25fc41de14a7c4cbdbfbcb2ed16d86ea0072c66b8a1ed57540924949da4ffb77",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_2",
@@ -2244,6 +2266,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0523",
+  "seed_hash": "cfcfff334556cbdd31665ba5702a2e3e1226733461017f88709d349b9bab5cb8",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_3",
@@ -2346,6 +2369,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0524",
+  "seed_hash": "a818a5cb20cb82ca5b58591d3bf32a5532e05cb71fa7e2d5f47e7f75001190f7",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_4",
@@ -2448,6 +2472,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0525",
+  "seed_hash": "c1969791c9e676aa6d67d3dcd34e0ef954926d9c8e5eeac104c17dfc350a4eb0",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_5",
@@ -2550,6 +2575,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0526",
+  "seed_hash": "aca8c0fd8ad7d1bfe9429a6356b7e88d368a09dcc9879dd8eaadd66a8c57406c",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_6",
@@ -2652,6 +2678,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0527",
+  "seed_hash": "1a4cc55e65a93d3f11e8005abe1d71df6da5c056d46dec95e7146d8c3120e92a",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_7",
@@ -2754,6 +2781,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0528",
+  "seed_hash": "55a985510e0c23ce9ea8ee653cd4afebb8ec7564e6ef92596cce23fb0507959f",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_8",
@@ -2856,6 +2884,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0529",
+  "seed_hash": "665db687cbf5b63d9672746401215dc89274325742e6a86f2711fc8012873c0a",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_9",
@@ -2958,6 +2987,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0530",
+  "seed_hash": "756351304d60b7db6bb76e0391e5c3da3df92d9bf76a4b8143a6a681b03926dc",
   "family_id": "F053",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_10",
@@ -3060,6 +3090,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0531",
+  "seed_hash": "e9468b3017c81485d25d82c02344f5e2612df7ff31e50abae61f578790326464",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_1",
@@ -3162,6 +3193,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0532",
+  "seed_hash": "cd0164b7265331d101d9a87984fc187509e23a72aee37b1f48511eb287822784",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_2",
@@ -3264,6 +3296,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0533",
+  "seed_hash": "d3aa53f4ce7db9ef89a626be1fa56902caecdf9afda0bda15229fb53ca712fb6",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_3",
@@ -3366,6 +3399,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0534",
+  "seed_hash": "81a96d08a54f277dfb70ce6814a44c17084cfcd3965ba445a7af822ad9fdb655",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_4",
@@ -3468,6 +3502,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0535",
+  "seed_hash": "5d1b23dcc188754315012faf90588fc8e0f067e5abe8ec4e3758d8a6719a6e2e",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_5",
@@ -3570,6 +3605,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0536",
+  "seed_hash": "e71bc8de455286f992441aded64675f526253b53bc4bdb2452192b500f74a915",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_6",
@@ -3672,6 +3708,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0537",
+  "seed_hash": "62ef89875b19c9717b17f87bd4e9a92b519963c2dd90a99b597d93e8805014ee",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_7",
@@ -3774,6 +3811,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0538",
+  "seed_hash": "d3a7fd82741ca1af38851ada8ba68db9d397bb4e52c81e3e9849ce5a1ed74676",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_8",
@@ -3876,6 +3914,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0539",
+  "seed_hash": "7ad28c6b9cd6ecb3568b0c970cf98c7266275049a5bdc4afabc16808bf12c5ca",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_9",
@@ -3978,6 +4017,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0540",
+  "seed_hash": "28f26a3cb278679e94fda677b420d89860e3e161f78b145b1454f69120d00801",
   "family_id": "F054",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_10",
@@ -4080,6 +4120,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0541",
+  "seed_hash": "a8e0202e9ceed54894210909be6264cff914f65665576db32fe5050a29fc0985",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "primera_vez",
@@ -4177,6 +4218,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0542",
+  "seed_hash": "e75cb50bc1806e2a200a867ca998d1ffb4002c298f0a30a3e0550e5d9fb126b3",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_2",
@@ -4279,6 +4321,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0543",
+  "seed_hash": "13dbda17d2365119dd89c8fbbc73b493c33bd91dba7c0f81b3257a80395b88fa",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_3",
@@ -4381,6 +4424,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0544",
+  "seed_hash": "3f5d0d484af12e2c6a659947c9336a9e6589dd57e3a5cfb23b2e71272a21b991",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_4",
@@ -4483,6 +4527,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0545",
+  "seed_hash": "d3e1fde00d802a200ffe7c9da128d1339587b7033e302cbd5ec1aecb2c2d03b1",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_5",
@@ -4585,6 +4630,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0546",
+  "seed_hash": "323954b0ad6124b3cb2f4b434dbf72cefdca1fd2168a6a1a88589674d5442d05",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_6",
@@ -4687,6 +4733,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0547",
+  "seed_hash": "4d229f37965386beec622ca46d68aa5ca10721e3ad8c5893992b69684b79dc48",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_7",
@@ -4789,6 +4836,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0548",
+  "seed_hash": "e0a2494cf5fc8dbc6f72f4b64939157b06798c8ec662600795f7079872280cb1",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_8",
@@ -4891,6 +4939,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0549",
+  "seed_hash": "3df3dba3ff8d06a62e8598ac562841244beb8f9cd482f49cbb1af6c0253305c0",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_9",
@@ -4993,6 +5042,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0550",
+  "seed_hash": "a596783e5c033de3e07be2fef5626098c6dc02c639a4465d3113eb561c762645",
   "family_id": "F055",
   "territorio": "Regreso y pertenencia",
   "angulo": "arco_causal_10",
@@ -5095,6 +5145,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0551",
+  "seed_hash": "821a46af03a2c923bb429e8544e5382d8e4a2517a3fb8d3041dd7cf27fdd2e49",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "primera_vez",
@@ -5192,6 +5243,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0552",
+  "seed_hash": "b5ba9bc1966a44d39c3295af44eff3a7287b2fa2cbea3764856ddd870ff30aed",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_2",
@@ -5294,6 +5346,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0553",
+  "seed_hash": "a2d1d29b2aaab80d58a56d7da0910649a1cfe7848197a404a7c277c21bb36fcb",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_3",
@@ -5396,6 +5449,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0554",
+  "seed_hash": "d1c380af32797bd8eb6cbeb813a48b681ac1cee3e2f00690733bcc6cb2b3bb01",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_4",
@@ -5498,6 +5552,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0555",
+  "seed_hash": "25e67d86b2949c0e9e1624fd8c2e7dce8d225ed7cdabdb41fee29c4c89851764",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_5",
@@ -5600,6 +5655,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0556",
+  "seed_hash": "0d88e997862d074ec40e15d142cdf24e07615cf9d2ed9635da3e26ec2aa359cb",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_6",
@@ -5702,6 +5758,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0557",
+  "seed_hash": "6b839b8c736b261bb39f812f36b53f53f52ea25530e58429c595f3a3be5c0d03",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_7",
@@ -5804,6 +5861,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0558",
+  "seed_hash": "a3ec8485635537c91a66392b5e84fb127747812f7d3ace8267ccd14cd45d7cff",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_8",
@@ -5906,6 +5964,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0559",
+  "seed_hash": "db5ff60187ba3b81ac440c602f0f96ca6bba1fbc13fba5f50319e97b51ca7b6c",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_9",
@@ -6008,6 +6067,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0560",
+  "seed_hash": "7572e9bc9d053f4df19fb587666a7312869fe7d92113b99eb56399f0ee0da80b",
   "family_id": "F056",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_10",
@@ -6110,6 +6170,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0561",
+  "seed_hash": "62a66cb56519167f8329b2f6b24a12a1301d01876542bef5fa693c5a88bb4225",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "primera_vez",
@@ -6207,6 +6268,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0562",
+  "seed_hash": "cf1eae84598b446bbb514ee4b677199b9a050d5b795ddc511f1278368c1966fe",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_2",
@@ -6309,6 +6371,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0563",
+  "seed_hash": "e6e0881fdc85a870781587623d5e4d849d3d8739064bec5f7fed419592dd630e",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_3",
@@ -6411,6 +6474,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0564",
+  "seed_hash": "49ac335137fbd64754aa2b78386773e6bc3fc6dc6341be8d23ebe87610a3fef7",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_4",
@@ -6513,6 +6577,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0565",
+  "seed_hash": "1c045e5e463a1dc35a137a8ea36a55cb6cbd8b827e3a9678d9fe6ea2c13ce763",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_5",
@@ -6615,6 +6680,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0566",
+  "seed_hash": "9b0092446046990e463eda36103cf75c522aad1bcdbf32899e892af82ad0cbf6",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_6",
@@ -6717,6 +6783,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0567",
+  "seed_hash": "3e800f8434116397b0e9671207946b52ec187ee9d6a7f2377f8198958a718e5c",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_7",
@@ -6819,6 +6886,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0568",
+  "seed_hash": "d26480f2bb604b5bb8c9c97d412f56c6221e621b7703635fc6a551e358e988d4",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_8",
@@ -6921,6 +6989,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0569",
+  "seed_hash": "a6f7cfaccc79215f7971d141c8d4ec46fc33474911ea831525725af31d70ebc3",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_9",
@@ -7023,6 +7092,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0570",
+  "seed_hash": "38e6248aeeb30d65d18b922714363497e229c1531499895ff9a0f9a68857428b",
   "family_id": "F057",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_10",
@@ -7125,6 +7195,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0571",
+  "seed_hash": "3c71d8f7413de9129e5a95c7f0f3db76ab7c33f9b845f3757255385734d7c47f",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "primera_vez",
@@ -7222,6 +7293,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0572",
+  "seed_hash": "4be68ba2dab40ccfa52b700d5ef79f9c609bae8d15530bb2688452b15189e100",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_2",
@@ -7324,6 +7396,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0573",
+  "seed_hash": "7fd16468078b6a742a5c1235361e04364b2b7bd304174fffce934f84b49b1acf",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_3",
@@ -7426,6 +7499,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0574",
+  "seed_hash": "8f0ae1ecbac7fb2f0056235ecad2f63b2bbdfad474f17935423e4cb773eec3f8",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_4",
@@ -7528,6 +7602,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0575",
+  "seed_hash": "525035414b21b592a2790d1efb8c5ff951bf91a5ddf2dc75b46571ca72e6807d",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_5",
@@ -7630,6 +7705,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0576",
+  "seed_hash": "8c14a82e4e6bd92795422ba66992ac54dc8198f4401f3a642542b80af16b96b3",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_6",
@@ -7732,6 +7808,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0577",
+  "seed_hash": "cde752cceab76b2b3533f359d7e7f9c9e34045ba9c15c90200e8ba096c97b0f0",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_7",
@@ -7834,6 +7911,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0578",
+  "seed_hash": "0ecfbbbc331a3d49a7a471326ae41ac04cd0d1786a7bd4b8959c10ce33e2f4d4",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_8",
@@ -7936,6 +8014,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0579",
+  "seed_hash": "d560a6290560c40957677d11cd810b7e07fb1640c211a98449672ebd8181af56",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_9",
@@ -8038,6 +8117,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0580",
+  "seed_hash": "b283eaadac224cade06d52c6fb5de7c4ab48c20511c0a2127d8848bc5f6a3591",
   "family_id": "F058",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_10",
@@ -8140,6 +8220,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0581",
+  "seed_hash": "fd8ba7f9738398f515e6996542125799a51511515c97d9ace277009400ce9201",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "primera_vez",
@@ -8237,6 +8318,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0582",
+  "seed_hash": "6d044f2609c79a11ef0658bc52408f35c21510ede17bcfc25569f45a3fd1e1fe",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_2",
@@ -8339,6 +8421,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0583",
+  "seed_hash": "1ddbe735197213935c49c9db3539b5e9612ba3222f46cde7fa090423ff1e0f2a",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_3",
@@ -8441,6 +8524,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0584",
+  "seed_hash": "61c1e1d9315a2b701a5c1bcb64e3a2690951d6418bef994c17415beccba0aede",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_4",
@@ -8543,6 +8627,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0585",
+  "seed_hash": "e1439a5d1ab330a09c85533e92590a9600701e3191a24ca3f72da43b8a242c00",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_5",
@@ -8645,6 +8730,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0586",
+  "seed_hash": "15c24fbf081d14608fbb31c9ae064fc69dde8579914540a728df773f911585ab",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_6",
@@ -8747,6 +8833,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0587",
+  "seed_hash": "96ebe334c467e64d67f0f01ad0410ca1ef740190ebcc3ada50ba73437fac393c",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_7",
@@ -8849,6 +8936,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0588",
+  "seed_hash": "7422378d78ec62a76887fdc923653313e160d7ead165475207a0a95ef3807d33",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_8",
@@ -8951,6 +9039,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0589",
+  "seed_hash": "2a7441a473600158fc0f9b63fc420d36c0c15d35edaff20180592c0ed9eec549",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_9",
@@ -9053,6 +9142,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0590",
+  "seed_hash": "5c7eacf544838fc96e77225b53f86931bcd5a5153c2611c18035a30ee12ad737",
   "family_id": "F059",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_10",
@@ -9155,6 +9245,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-S0591",
+  "seed_hash": "e9437b86e173fda80dffc5a091deb420f5ed718ddfcb95f2dd8234caecc69b4a",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "primera_vez",
@@ -9252,6 +9343,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0592",
+  "seed_hash": "442db82aedec085268a40ea3be56097c403e0c5a654e1a737fd31be2c53b999e",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_2",
@@ -9354,6 +9446,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0593",
+  "seed_hash": "8c04aad95be347aeb655ee58136e60badcc2b5dffa97b46d16f3f316dd6611d4",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_3",
@@ -9456,6 +9549,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0594",
+  "seed_hash": "daba0f94c3a5f0273007e013b7fabf59212d0737827b409fd3092b697400fdf3",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_4",
@@ -9558,6 +9652,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0595",
+  "seed_hash": "a5d1630bc84dc8d10e688f4c31f6cedeb520c1181f577fd8100ce509f218a326",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_5",
@@ -9660,6 +9755,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0596",
+  "seed_hash": "39a02bcd541ca0bfdd7d1c80a718bd0e4dbd6976a2e22795392b4201153e7bb3",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_6",
@@ -9762,6 +9858,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0597",
+  "seed_hash": "f8f1241c17fb7f4d8d741a5a7b4ac6d37d0a3e29cc0539df43e6db6c9110d595",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_7",
@@ -9864,6 +9961,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0598",
+  "seed_hash": "3afe063e49210e76096c453f757bd25e8b486326725da3b2a3a29239d78b16df",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_8",
@@ -9966,6 +10064,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0599",
+  "seed_hash": "5ba5d8695c20b69f7df2f94059e60f277c0c8055f68be62f15adf6150bf03dcd",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_9",
@@ -10068,6 +10167,7 @@ Registros: `0501–0600`
 ```json
 {
   "seed_id": "MILO-R0600",
+  "seed_hash": "d0e9282f9fa4f2aeac85592329dbe37502f5651f1d0aad73bacbb5c22ea026df",
   "family_id": "F060",
   "territorio": "Ausencia y despedida",
   "angulo": "arco_causal_10",

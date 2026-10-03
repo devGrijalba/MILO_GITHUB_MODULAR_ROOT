@@ -1,6 +1,6 @@
 # MILO — SERIES STATE
 
-Engine version: `7.0.1-MODULAR`
+Engine version: `7.0.2-MODULAR`
 
 Este archivo representa el estado explícito de continuidad de la serie.
 

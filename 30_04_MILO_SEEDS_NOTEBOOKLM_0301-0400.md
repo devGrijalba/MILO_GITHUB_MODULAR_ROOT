@@ -15,6 +15,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0301",
+  "seed_hash": "2102628a3793d2713bb1a87fb3596c894ee39d95b36c61e225590f1ab9c806c7",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "primera_vez",
@@ -112,6 +113,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0302",
+  "seed_hash": "03f5deab5f80398c308449b5fcbc2621ef830de88284e4d65b9861ac735617f7",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_2",
@@ -214,6 +216,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0303",
+  "seed_hash": "24075359639682faac41c596fcbc35cab6b5d9a9634b3e74e99b742b0df6e7d6",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_3",
@@ -316,6 +319,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0304",
+  "seed_hash": "0d850dc9c9801a04552f4260be9a5e046c6ca0130b81be62099309f62b805687",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_4",
@@ -418,6 +422,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0305",
+  "seed_hash": "9d870029b54a7302080dabbc23abac46c10b7599642f64b0795b3e88219345cc",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_5",
@@ -520,6 +525,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0306",
+  "seed_hash": "76f8e799be103c61a10ad8faa2ceb3015cd55011c09be4b3cd93960525f7a1e5",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_6",
@@ -622,6 +628,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0307",
+  "seed_hash": "a12ad5d52c0c6bbfc4325d95e2db323abe3f60b7ab1909a3facfe3fbe13f5eaf",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_7",
@@ -724,6 +731,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0308",
+  "seed_hash": "f1928059bc9012b1ad3adafeea3623b6a66a1e752a3acfef220cce0278dfc195",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_8",
@@ -826,6 +834,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0309",
+  "seed_hash": "9442f9a5e5775386a7c1cdaab25e09bd372729447017a7d45671e03550ec3450",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_9",
@@ -928,6 +937,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0310",
+  "seed_hash": "408d2b6d1c005da227c2ee11cceda329b8f2151f99046c5c33d85ddae8b4357f",
   "family_id": "F031",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_10",
@@ -1030,6 +1040,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0311",
+  "seed_hash": "0202f6d3467ff9811ec5364e9ea2eedc8c7ed0d5d443b3fd16910ff992ae4a42",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_1",
@@ -1132,6 +1143,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0312",
+  "seed_hash": "9284a78225537e938bcf82829b7e07487aa6b2978ed62441ba1f8fcb3e876783",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_2",
@@ -1234,6 +1246,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0313",
+  "seed_hash": "217eb492e96c800f4348993d80010d9ebd9d7db47ba43d344873f3d1061bc399",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_3",
@@ -1336,6 +1349,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0314",
+  "seed_hash": "cbfc6da93beb3ee9bebb2f2fd5d897b81ef66a091ce90665ff506e6bdc49f3e3",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_4",
@@ -1438,6 +1452,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0315",
+  "seed_hash": "805651408fa56421ba17cc6adeddbe271849cc71c2e5346a846d3caa303b5d93",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_5",
@@ -1540,6 +1555,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0316",
+  "seed_hash": "42b37362d03a4355da6fd74ec75bf57c030bcfaed999b2fe992fcf8b24df1f53",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_6",
@@ -1642,6 +1658,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0317",
+  "seed_hash": "81f9140f41dde8dbc82b167d4d1021f0108a037c30cff8d590c100f6acddddbb",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_7",
@@ -1744,6 +1761,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0318",
+  "seed_hash": "588a5ca79588ecc2e19e4d8d269d6d2667bb6276d14cac86618f8ed2e8513e8d",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_8",
@@ -1846,6 +1864,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0319",
+  "seed_hash": "1f614dd06085e84296f05d37d4a6defd79d51f506b21d01349ccd10785e7503f",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_9",
@@ -1948,6 +1967,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0320",
+  "seed_hash": "1c6edebf06239485f451ca5ca796287f1e2f707f86bc8b593af32d6ba30a7f55",
   "family_id": "F032",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_10",
@@ -2050,6 +2070,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0321",
+  "seed_hash": "de4762ad5b51700ef94724d8315f5cc707f353aa32d96611dcf5d58f3747ca29",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "primera_vez",
@@ -2147,6 +2168,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0322",
+  "seed_hash": "cdc390d7669bb22a5269f54c9a3aeba99563ab48afc2e1e97862fb814c57f500",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_2",
@@ -2249,6 +2271,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0323",
+  "seed_hash": "bfc7cc3536e00502a1fbda4358979c1a44020e09144ea5deaabf6987dd3046e9",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_3",
@@ -2351,6 +2374,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0324",
+  "seed_hash": "8cbc3b65251df9ae1da87176cf925e5650d7c49357b5351418a75df92ad1fbbe",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_4",
@@ -2453,6 +2477,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0325",
+  "seed_hash": "b2251da7a9c4ec71213b3d5567f7079c6c55d4338eee1d7d80b52f1e4c3314b6",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_5",
@@ -2555,6 +2580,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0326",
+  "seed_hash": "40ef43bbd4a05905ba6fe2ea6267c167d7a44375cebb003c3b7452c06e07e70a",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_6",
@@ -2657,6 +2683,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0327",
+  "seed_hash": "8ea282c1b74b97f630c236b57248c31d7f1ef8573fc7c34a1b5099f4f1da9a1f",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_7",
@@ -2759,6 +2786,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0328",
+  "seed_hash": "5a0b3435256ba79e86ef789e3d98cef313e076577cc6e428f4e6ee4d4bec6e92",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_8",
@@ -2861,6 +2889,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0329",
+  "seed_hash": "eb742229053077a5770b6fbe72a554fe1e1309e1e722d854f2024119286015b7",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_9",
@@ -2963,6 +2992,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0330",
+  "seed_hash": "c7302d1e83682d25d8dbbca400759d4524e40770686a2c282359c483970aecd8",
   "family_id": "F033",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_10",
@@ -3065,6 +3095,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0331",
+  "seed_hash": "a051158165da8d74b15e54b12624e1c9c32024540ae64981bbb98b56d3c7db56",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "primera_vez",
@@ -3162,6 +3193,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0332",
+  "seed_hash": "221126aca8d035df365bb68d42ced2154b367c82120c10bbd1c23e82c2d6e0a5",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_2",
@@ -3264,6 +3296,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0333",
+  "seed_hash": "2b7bbc9768f4b81d8a1d542227457fce417ebdc595b80a62df29d8ca5ad45e53",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_3",
@@ -3366,6 +3399,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0334",
+  "seed_hash": "e61ad844b8119155ed277c758a087dccb990ccd4d41b9198a370fbbdc64e66e7",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_4",
@@ -3468,6 +3502,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0335",
+  "seed_hash": "8ba33b38a609e9e1f2dfafdd1060a0b05629b46fec7c4b41063b91032b2eefc4",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_5",
@@ -3570,6 +3605,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0336",
+  "seed_hash": "a49d4a9b81a6a19e8a7ac0778dcf6cf4d43e1395b6520e05230297714bd3fc86",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_6",
@@ -3672,6 +3708,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0337",
+  "seed_hash": "ef893a68bcf182e4e82802f1237cf9f16e01d449ac517b147c5bdc2bed7ba57d",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_7",
@@ -3774,6 +3811,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0338",
+  "seed_hash": "b7ed7ce901b1725a21915772563e1fb8e4f9f82569dada8c01689fac2857aa01",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_8",
@@ -3876,6 +3914,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0339",
+  "seed_hash": "748ad14b4e0fc6187093152bea2c4c5230a9c61b58f8497af6acf267e5d68c4b",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_9",
@@ -3978,6 +4017,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0340",
+  "seed_hash": "8928d0407b34d43f7575d40757cd657eecb0f057647addf20cec7a32e4ef9728",
   "family_id": "F034",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_10",
@@ -4080,6 +4120,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0341",
+  "seed_hash": "6daf54e48d5cde8f7246682313513996ea50dd2eaef3018a0b6bf3be02cf5cd7",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "primera_vez",
@@ -4177,6 +4218,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0342",
+  "seed_hash": "a8f58c89b1e8daa28be691519de843f44661fc62f49fc875912534c82d445c6a",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_2",
@@ -4279,6 +4321,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0343",
+  "seed_hash": "aa2452de8e96c94abce59c2da2893dfbbd0e404448801a5cee279da4a99e87a6",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_3",
@@ -4381,6 +4424,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0344",
+  "seed_hash": "0dd31fe2474796d15d1cdebba2b20f12d2e1dc2776382bbde4089166187b972a",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_4",
@@ -4483,6 +4527,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0345",
+  "seed_hash": "63ed296505cecc0a64e98e7e4bf1f4843afd1d03124581b561e99b0ae26083ef",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_5",
@@ -4585,6 +4630,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0346",
+  "seed_hash": "5c7adf3722f13936f448cc926fe3354a50a7cf3336b0d9c7e08d95aac4ef0a38",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_6",
@@ -4687,6 +4733,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0347",
+  "seed_hash": "749ae136eaba6e153d0fde938aa393558b23c897f4775143b950ac3f4a111155",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_7",
@@ -4789,6 +4836,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0348",
+  "seed_hash": "b2ca7c048606285fb1ab2142a4894433c8b5e39fac285e57e8f8cb57ba857b16",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_8",
@@ -4891,6 +4939,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0349",
+  "seed_hash": "038173c4e3c2bef65ae8a24749b439c0515ed87a09e0fd1aaac960d4bf185716",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_9",
@@ -4993,6 +5042,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0350",
+  "seed_hash": "79101657a16e4d954ebd002b76c9bc7caeb65d822f8918d58aef4c571bc38c61",
   "family_id": "F035",
   "territorio": "Sobrepensamiento",
   "angulo": "arco_causal_10",
@@ -5095,6 +5145,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0351",
+  "seed_hash": "c73ccda49e5e20793ae378f36c84051dece7f6dec13b0d7e4df8513aec51ed85",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "primera_vez",
@@ -5192,6 +5243,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0352",
+  "seed_hash": "24b9f2b92c8074a4c063d8b1f2d6efd571ad8e2208751bb48efa3a6b1f38068c",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_2",
@@ -5294,6 +5346,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0353",
+  "seed_hash": "432ec690801c29e93e223a595e6c1e49791b639e49d1fe0cd64e047a8ec62480",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_3",
@@ -5396,6 +5449,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0354",
+  "seed_hash": "1a399278cd518e5fece8c90102cbdfc121cc68494cb9cce66a13856cccaad65f",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_4",
@@ -5498,6 +5552,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0355",
+  "seed_hash": "540fac06d03af176426d3625c10b9ddd76d43df2d1d058d00ef1be0b3690d836",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_5",
@@ -5600,6 +5655,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0356",
+  "seed_hash": "462140c24fd91886d68f60b8ce4abde3163800ded1f85c357bfd76830fc02f38",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_6",
@@ -5702,6 +5758,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0357",
+  "seed_hash": "3cd1031e154ad33ae82ce16c3eead87642fc5c742995c8aeb92957657142497b",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_7",
@@ -5804,6 +5861,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0358",
+  "seed_hash": "bc18ef2d43c191b301d0ba9ccef4f822c2ac156d4646720913a6a43aa24342ba",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_8",
@@ -5906,6 +5964,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0359",
+  "seed_hash": "3d4027ca99fac55e86dc155ab592212ff918939472965925c58cd2bde1190c0f",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_9",
@@ -6008,6 +6067,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0360",
+  "seed_hash": "69e17e237d2dc660b9199232ab89df644d4c9268df2add08fb5868f470a6e09d",
   "family_id": "F036",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_10",
@@ -6110,6 +6170,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0361",
+  "seed_hash": "8b75b7b79712e0253a93301add9a189ec9b3e72b7c864bd9cf6c50aa6945160b",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "primera_vez",
@@ -6207,6 +6268,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0362",
+  "seed_hash": "300e90613b17f1d25382610eba36555b1b1fedfd9a18381844c30e70e34f1a00",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_2",
@@ -6309,6 +6371,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0363",
+  "seed_hash": "b7d78c9a38e2687df933b90b8b9488c2f21396152e0c9e8af911794d3017e02a",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_3",
@@ -6411,6 +6474,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0364",
+  "seed_hash": "ba03641022c5b6e024c3e0c65cff449352de3dff7982ce8217963ce6f38e9db3",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_4",
@@ -6513,6 +6577,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0365",
+  "seed_hash": "8e993a0944b0d39181547177d4e30772e86b84acb432222a34e4f1578ac10c1e",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_5",
@@ -6615,6 +6680,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0366",
+  "seed_hash": "6ed93341adfb335129927a5ff89d810f0553a7928da881c4a149cdc0acb32a0a",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_6",
@@ -6717,6 +6783,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0367",
+  "seed_hash": "486540a0443370ffe3ccb29ba71b43734ea3ba29a3c734818f15b3c113316520",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_7",
@@ -6819,6 +6886,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0368",
+  "seed_hash": "16c32eb5bff7ac34b58313156dd6d3394cb9f4fe28d420abf0de35aa3b974392",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_8",
@@ -6921,6 +6989,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0369",
+  "seed_hash": "9190193a0707a7c049fd861ad0fa2290787354a217a7f3516dd200a289b0090e",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_9",
@@ -7023,6 +7092,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0370",
+  "seed_hash": "e220ccecd4d7d55439406fde1a3d9041fbeaeaf40d923e842c562d7aa6111f61",
   "family_id": "F037",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_10",
@@ -7125,6 +7195,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0371",
+  "seed_hash": "a94e99e0ee13e29b9cb552c522bcf8c66b666f93f69636e4320d91515e668253",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_1",
@@ -7227,6 +7298,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0372",
+  "seed_hash": "cc6cfdbcca2cfe4e2d0a7111edcadf337c85140cdc5dc682ebc22ad0b2eab7c8",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_2",
@@ -7329,6 +7401,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0373",
+  "seed_hash": "719daed58bfd3ce69e4011ec3401b20fc022397fdc54287d706f10efada2ff81",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_3",
@@ -7431,6 +7504,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0374",
+  "seed_hash": "40f1c9c1d5b3fc6a23d6bed6bee42e8e292c328f27af854ae52f46000461044f",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_4",
@@ -7533,6 +7607,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0375",
+  "seed_hash": "5a6fbadb75c80143ea8f14e5b4b7a08d45b97df87a160fd95224d467f04828f1",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_5",
@@ -7635,6 +7710,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0376",
+  "seed_hash": "ab019d654ba55268982b6c334bc26ca6ed8ca4490f339f94a84fc8bcc8905e29",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_6",
@@ -7737,6 +7813,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0377",
+  "seed_hash": "e8bcccaf58f8a7d5d5c2197522c2d41d62e774ed5e02b148e18c882aeb23f922",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_7",
@@ -7839,6 +7916,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0378",
+  "seed_hash": "0267e18e6b10d0d9f9db14ab125f0c068d78f2eb692cdf4306e85dd122c16b65",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_8",
@@ -7941,6 +8019,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0379",
+  "seed_hash": "090f9d5311184e5a02ce3706cdebff9750a432afaa478c8de04b5765a9892657",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_9",
@@ -8043,6 +8122,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0380",
+  "seed_hash": "f2ecccfd1f18214b42f60d888c5cf85ae1043c253763212fb85de96f58a9551d",
   "family_id": "F038",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_10",
@@ -8145,6 +8225,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0381",
+  "seed_hash": "9f8e8a7fa22164505051635b31200beb4598ebc9470a06bd308944a0c6255141",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "primera_vez",
@@ -8242,6 +8323,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0382",
+  "seed_hash": "4163929cc41dc61f2bb970bae8a52a96dc5bb0650c024e80502f72a8a6e3fb57",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_2",
@@ -8344,6 +8426,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0383",
+  "seed_hash": "52ffe98c8df5134293874563d0dcda6238c70c6376560fe658866ec8bf00f59d",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_3",
@@ -8446,6 +8529,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0384",
+  "seed_hash": "253df86d181f79ec8d0eebbf8576ef5e2c1f8221b847ad5b7352f20b868d385d",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_4",
@@ -8548,6 +8632,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0385",
+  "seed_hash": "b53d6b1d16b65dc34a22780d11330d6166781f533c7f727334634dfe646ea8f0",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_5",
@@ -8650,6 +8735,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0386",
+  "seed_hash": "6bbac7ba05aab63c397827cf8f65ceee7ef697b909c2330a6711e9490aaa1399",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_6",
@@ -8752,6 +8838,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0387",
+  "seed_hash": "a67121e4d73c256a56efc817e047b960ff8ef02d87180b4473b20f09da6dc813",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_7",
@@ -8854,6 +8941,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0388",
+  "seed_hash": "053784f1e8c28ae30f88d5fe9b2028b644b961183575629465c70ece309e755e",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_8",
@@ -8956,6 +9044,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0389",
+  "seed_hash": "e75a5af589e727d2867101f15e085e248b2ca50f0fa029be955c98ca8f7cb001",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_9",
@@ -9058,6 +9147,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0390",
+  "seed_hash": "f85e8f7e4dd47bf7eb62b8f9c62ef8b13403c3c044beeeb5f7bf908ee111b581",
   "family_id": "F039",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_10",
@@ -9160,6 +9250,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-S0391",
+  "seed_hash": "1b9736f32f480d245b3c6c9a0843f1596c24e3c8ad45aab9d14ca68ff6c69977",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "primera_vez",
@@ -9257,6 +9348,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0392",
+  "seed_hash": "e0ac96bfb41a5228c6bb24b826d1ecc0f5b196b0bf232bd185b14d06f8846006",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_2",
@@ -9359,6 +9451,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0393",
+  "seed_hash": "3fb1a0fc7e6ab23ed1a73db8d8b593aa99977a9d1dfe265da97b6bfe3e9ac2ca",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_3",
@@ -9461,6 +9554,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0394",
+  "seed_hash": "12c09054f4163f6a7794f8e5c0e022a0e0c8455e5d97f698bc346ec0a3abf590",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_4",
@@ -9563,6 +9657,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0395",
+  "seed_hash": "4c2e7506e390f8c713ae0c14e95421f59481c1f09de595d9b7dd90990cea3dfe",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_5",
@@ -9665,6 +9760,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0396",
+  "seed_hash": "336e38030caafcc9defe97e9fd3ab9c6b3e7be13a02fce9aa59f63e6506a169a",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_6",
@@ -9767,6 +9863,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0397",
+  "seed_hash": "388ed2487bdf6bc66575b287d2f0498fe7a16dd164ca087c2f27f79d71d541d2",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_7",
@@ -9869,6 +9966,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0398",
+  "seed_hash": "e61e8fa4ad93f426942214c1c4292a0cd0e2ea4d3f5e73d8bb8319660ccbfbed",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_8",
@@ -9971,6 +10069,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0399",
+  "seed_hash": "1fed006712ce2b8bd7dee8452d1d0d7a51285d22a7059a588e4eebc7109a681b",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_9",
@@ -10073,6 +10172,7 @@ Registros: `0301–0400`
 ```json
 {
   "seed_id": "MILO-R0400",
+  "seed_hash": "8d79dab21eb595c370fa70cc71f033e828663f7703f286872c2eb014c739dccc",
   "family_id": "F040",
   "territorio": "Límites cotidianos",
   "angulo": "arco_causal_10",

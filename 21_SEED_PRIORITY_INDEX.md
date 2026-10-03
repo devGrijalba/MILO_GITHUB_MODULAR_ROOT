@@ -1,6 +1,6 @@
 # MILO — SEED PRIORITY INDEX
 
-Engine version: `7.0.1-MODULAR`
+Engine version: `7.0.2-MODULAR`
 
 Este archivo evita escanear las 1000 semillas en cada generación.
 

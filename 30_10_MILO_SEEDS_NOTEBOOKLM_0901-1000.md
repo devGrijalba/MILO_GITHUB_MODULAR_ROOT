@@ -15,6 +15,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0901",
+  "seed_hash": "a0c3fa76f69ec271d47df15eab21eb709fa02c0ce948013945d7496c267e50d9",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_1",
@@ -117,6 +118,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0902",
+  "seed_hash": "505d9c8fc24fcf81eb1c28e2f49da892f9a8e79d47a484ee029fdee364d5ad4b",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_2",
@@ -219,6 +221,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0903",
+  "seed_hash": "7cd5c767f4bcb26f5cfac5130f6a26a26dbe605dc839863b3d62b1719eeb339e",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_3",
@@ -321,6 +324,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0904",
+  "seed_hash": "672b2dbcf6598eafa8f1d6269c339af57706d7c9687427f8d8fcadb4422114d2",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_4",
@@ -423,6 +427,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0905",
+  "seed_hash": "0248c77022d4f103d98379e1902054104fd252d4c49005c1ff725674c4c53069",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_5",
@@ -525,6 +530,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0906",
+  "seed_hash": "c3f503049f072fa02d0fa29f3918f39d296f0fdbc2b938577731b7827840f18c",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_6",
@@ -627,6 +633,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0907",
+  "seed_hash": "599f79d9c64504ca6ed7c8950627f8d2fb8d77a0b78cf279f58daa114e3eb251",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_7",
@@ -729,6 +736,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0908",
+  "seed_hash": "1ab8dae2141bdf641763b1ab9ca3114962a7f91813542cdb644d1a728ea1c4d1",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_8",
@@ -831,6 +839,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0909",
+  "seed_hash": "eb42effe006a436a146c553a9a6f7e2b742a364ae5a5a37e627b03984d427640",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_9",
@@ -933,6 +942,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0910",
+  "seed_hash": "5923992b501407368f9464b521c6e3b162e96fe365e67c79abc6435124c06e3c",
   "family_id": "F091",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_10",
@@ -1035,6 +1045,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0911",
+  "seed_hash": "04b2c4caf2c7385b47d92c2790fa80e25658ff62be44baa84b6bb97207e569fd",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_1",
@@ -1137,6 +1148,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0912",
+  "seed_hash": "f524a2b78351f5504b0381ee8a9136f98e4ca562047633685851fa1ef9188943",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_2",
@@ -1239,6 +1251,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0913",
+  "seed_hash": "5223cbe6cb96269d41c1b74329cfb9ec74b838fd1c2f1c6fcc87646baff0b86f",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_3",
@@ -1341,6 +1354,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0914",
+  "seed_hash": "a52a6975acf2d4c7745df15d220195b4d45a09be39dc1a7cae412ec45d1e6213",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_4",
@@ -1443,6 +1457,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0915",
+  "seed_hash": "9f09325406257397f0d99c1beaad5b3eedb2390a28fd6da24509f5575129b56e",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_5",
@@ -1545,6 +1560,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0916",
+  "seed_hash": "3ef9a80cf04009923a7bffb1810c7f17916a7a12bb2ffbd1a0904be5f0ff70b9",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_6",
@@ -1647,6 +1663,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0917",
+  "seed_hash": "04f1ac702d3ce7eccf9965428af6d6326b5facf929ae3e57239ef7b3b1def3ab",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_7",
@@ -1749,6 +1766,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0918",
+  "seed_hash": "acdf923cc488580236923879a4faf528f9b040e978735c55ce5186d1f2961706",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_8",
@@ -1851,6 +1869,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0919",
+  "seed_hash": "466a271f24ce023789cdc5a880660d4204a2e257c8b1b25983ea746f18da7513",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_9",
@@ -1953,6 +1972,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0920",
+  "seed_hash": "20c3a8fa368633a69e499c71fc003cca4075d1fab89b152fd98882e3900965cd",
   "family_id": "F092",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_10",
@@ -2055,6 +2075,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-S0921",
+  "seed_hash": "142f771dc23156f4fd12980bcb06014c7dea031d1cb9831cc6d8284a3bbd8519",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "primera_vez",
@@ -2152,6 +2173,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0922",
+  "seed_hash": "c923ba6d81366ca1d386074e3a855ccfb4b58ab34036c4826c9359817a9c0526",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_2",
@@ -2254,6 +2276,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0923",
+  "seed_hash": "3e1e920f364b5fdcb5baa3289e66ccdc783c1c1de3278fc38e7b18e1b3eeb3c4",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_3",
@@ -2356,6 +2379,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0924",
+  "seed_hash": "501ba4dc8539a6229bba3e568b601b039e7fb6b0948cd8c3746d1d731d206e15",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_4",
@@ -2458,6 +2482,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0925",
+  "seed_hash": "5c34d64bbb68ad0dde86ecfafa4775b534c32e01749caee3241bf2f0d32cbc9a",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_5",
@@ -2560,6 +2585,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0926",
+  "seed_hash": "037935d3e3328d73a2a2d214567669c9b5dd49bc7441e5f3c28269ab4b90f10d",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_6",
@@ -2662,6 +2688,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0927",
+  "seed_hash": "4d4fd3d5eeda4a5d4871f5be124663f5896c727d44c250627e92a6a33f7633a7",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_7",
@@ -2764,6 +2791,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0928",
+  "seed_hash": "a6954aa845bacf6cbbac357a5e080f9a608c9b0d5549abafdfeae1da8095ec23",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_8",
@@ -2866,6 +2894,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0929",
+  "seed_hash": "6d1de9eff42177e061cdb6f3796753957c29f8a4a8ff2b80f561cdb57f50aec6",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_9",
@@ -2968,6 +2997,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0930",
+  "seed_hash": "445e6d459958d74ee5be17df285c8fcda1781d5fca966417105f90e90d9c2e75",
   "family_id": "F093",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_10",
@@ -3070,6 +3100,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-S0931",
+  "seed_hash": "1b49bf98f425dc2a7cc03253b177e367860b3c09e28318fdffbb8738e84c6fb0",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "primera_vez",
@@ -3167,6 +3198,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0932",
+  "seed_hash": "a3a4daefbca9b8364a7f5df94e49459e57d26e93b33531ac8ca1bbe16ab79c55",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_2",
@@ -3269,6 +3301,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0933",
+  "seed_hash": "b72e9850f288c2bdc2c8faf19e2dc4ccce05294ba08ccd7cb1290975a19bcd6e",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_3",
@@ -3371,6 +3404,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0934",
+  "seed_hash": "7cf5706ee6f1f5d3fac1cd009e970e1bc07bc4cb858965832e50cf710f36fbd4",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_4",
@@ -3473,6 +3507,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0935",
+  "seed_hash": "03974165f8cf438fec8ded401193b68301d6ec27b254c589002c37291a00384e",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_5",
@@ -3575,6 +3610,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0936",
+  "seed_hash": "2a7b4142e7f728c0ee63d41f51bcecc4c933ac30f0e6db9480a0cb6143be33eb",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_6",
@@ -3677,6 +3713,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0937",
+  "seed_hash": "789739889e782969eec0ca5c1f53212a6a4e03ce1d8a397aaa6389093e70fd6a",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_7",
@@ -3779,6 +3816,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0938",
+  "seed_hash": "e1d13d28efc0c61047b00d69a00a868d43df33623f873fe49cba5d9bc8488767",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_8",
@@ -3881,6 +3919,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0939",
+  "seed_hash": "65eabb17204672d77c125b73d113e9e77e2c1c73af15610529e962537b9a45da",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_9",
@@ -3983,6 +4022,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0940",
+  "seed_hash": "3e63825055e466d9a78da3491653dee2dcb6188199dc97d19025108ae8c80e5d",
   "family_id": "F094",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_10",
@@ -4085,6 +4125,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0941",
+  "seed_hash": "c8023bf316f4643874633fd611f2ba7986449da8925f79c618db28acb6d86f79",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_1",
@@ -4187,6 +4228,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0942",
+  "seed_hash": "2371a41304a9829046b52f8d53b42e5228622c5f988acc095cfb4d231f9daea9",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_2",
@@ -4289,6 +4331,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0943",
+  "seed_hash": "088aff0b99ceea2b431b2e8508bc943e4ed5e93684af2d7f9d6b26537c008900",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_3",
@@ -4391,6 +4434,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0944",
+  "seed_hash": "977a77febdbad6f2f30bd54b787f8b9692d1be046733edf858eddb072f62271c",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_4",
@@ -4493,6 +4537,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0945",
+  "seed_hash": "1b5343dd70f1e2092c5e98403e9dcf271909565e0a67dc1630588f50ccd453b2",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_5",
@@ -4595,6 +4640,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0946",
+  "seed_hash": "2265cb7f5365ca11871241fb1953c7c4ca72c46e2e3f0c98eac840bc024d2d11",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_6",
@@ -4697,6 +4743,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0947",
+  "seed_hash": "6fedb13d6d05eb9afedf435cb2ec9ee3427800b357172210c375c1b7bc4988e1",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_7",
@@ -4799,6 +4846,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0948",
+  "seed_hash": "5e1629af9b7d1234f8d0ae6ef8e919af281f0bb994f7ceb74c8a570c43b7a668",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_8",
@@ -4901,6 +4949,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0949",
+  "seed_hash": "443570d5b3080e9d8817916e7a0d5cefa1f77173505e0943376741b337b0c7c4",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_9",
@@ -5003,6 +5052,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0950",
+  "seed_hash": "d14f0852885eef33b4c7e03230905b9cb564c91927143fb8019eb1f2391ceff1",
   "family_id": "F095",
   "territorio": "Tiempo y crecimiento",
   "angulo": "arco_causal_10",
@@ -5105,6 +5155,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-S0951",
+  "seed_hash": "5c3fa91861ac6f2e2fb42307ca1961c0e5bcd51c04446b9e058f9c58581e4398",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "primera_vez",
@@ -5202,6 +5253,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0952",
+  "seed_hash": "5d581c90f35d03c8602d30544dc991bacec4f0dd17a03f9d6ad52ddb5c413506",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_2",
@@ -5304,6 +5356,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0953",
+  "seed_hash": "9c184373d5bb86093e6fd398a5f9772675c132b9677fee15318637bfe9d94c2a",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_3",
@@ -5406,6 +5459,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0954",
+  "seed_hash": "f35059f90aa15b767b0e451ab1665d2bd3126a36e62b5e419336882fb56ac4c2",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_4",
@@ -5508,6 +5562,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0955",
+  "seed_hash": "e6de4300eb588a7f7d8c2b1ce18e3da17973d9d3c8653f7774a122f89e7fde1d",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_5",
@@ -5610,6 +5665,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0956",
+  "seed_hash": "d198e789dfde8426cab8d88db44e51732affed7b2ef01fdafa57f61d40a3203b",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_6",
@@ -5712,6 +5768,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0957",
+  "seed_hash": "5bff17899bf2cc4962afe14ead5febbb9e9eda76ec06b54ef20a30b377166c9f",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_7",
@@ -5814,6 +5871,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0958",
+  "seed_hash": "e3c670e5ede9e50acff9ed72c0c4caeb50e75382d7b8e47e291b39955c24d96f",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_8",
@@ -5916,6 +5974,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0959",
+  "seed_hash": "3eb2b4daf95b94c258676adee2bc3217b1d6a5049de521e1e0b262a5b8c67ee2",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_9",
@@ -6018,6 +6077,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0960",
+  "seed_hash": "bbd4b5dee8d7fa3794e9faacd87c6128b05258471ca30cee02d85008641f8566",
   "family_id": "F096",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_10",
@@ -6120,6 +6180,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-S0961",
+  "seed_hash": "7d6f6e5716b6bfd0763f74e128688589cc693974011cab7292ffe98421f27c4d",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "primera_vez",
@@ -6217,6 +6278,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0962",
+  "seed_hash": "e69b344e7ca75ce5968104a447a80c7fb654917f6ff14b5ab3296ee82a8eebd6",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_2",
@@ -6319,6 +6381,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0963",
+  "seed_hash": "865efd63c6a0dc928e4cdc5ebbef60bdd551422a7f8ca1a22f4208d246ac1aa6",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_3",
@@ -6421,6 +6484,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0964",
+  "seed_hash": "0367cd0cddd19a8a5ac0adf4de4905cc6c8cc5bd2e0960c65f628c71fdfa991a",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_4",
@@ -6523,6 +6587,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0965",
+  "seed_hash": "eaa302f809f642208566f5749e546bd894327a93b0f12f098bc0e26d56dff2d3",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_5",
@@ -6625,6 +6690,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0966",
+  "seed_hash": "8d77ed049e18ad95ac95d98eaa180fbd396c9008a5fbaf615f3d5bb644b3fcd5",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_6",
@@ -6727,6 +6793,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0967",
+  "seed_hash": "072c9dd3a0b20c6c6041025c5c753f4d9c23910f5dd3dfff2671e782140822fd",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_7",
@@ -6829,6 +6896,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0968",
+  "seed_hash": "7428beda9fa5eb2ae53d3d349c505c4897fda8839dff37d9f0a925ad428003af",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_8",
@@ -6931,6 +6999,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0969",
+  "seed_hash": "0a60ad36c18f3fab7b4d3cde0265e121196043839b33d9713f45c919b78b0955",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_9",
@@ -7033,6 +7102,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0970",
+  "seed_hash": "ad0d8bade9e6400959e1c1fbbc06c06b9c4467a7a8010ebe48ec848c28f674d8",
   "family_id": "F097",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_10",
@@ -7135,6 +7205,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-S0971",
+  "seed_hash": "fb37eb837705e878ec80c7755fafc8447f0ae9c6d21370762391446e922b13c2",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "primera_vez",
@@ -7232,6 +7303,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0972",
+  "seed_hash": "37a6c3dc770b5ae9b037a386fbba28f7bb527a08a95b0d07963b5f46913583a7",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_2",
@@ -7334,6 +7406,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0973",
+  "seed_hash": "52957860fbc6e7baa67bd398c00f18962c6c488eaa09d2edc5883e67220f7134",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_3",
@@ -7436,6 +7509,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0974",
+  "seed_hash": "01e6f6e0761806460db2018ad3c929db82eb410d7939837466d0091d1fc6ffbd",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_4",
@@ -7538,6 +7612,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0975",
+  "seed_hash": "e74b48cc21c7b413928c60f49445bc814a42a95048f80a8506684fbee0dbdfe9",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_5",
@@ -7640,6 +7715,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0976",
+  "seed_hash": "c9f91196e2ccee5667f2952eb1a231b5ffed9b1aeb048b2335890d0f0e5eb971",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_6",
@@ -7742,6 +7818,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0977",
+  "seed_hash": "7946c28135e4a6e78bec9b345c276b2bcf3076e8fc27c6bfe0f5dffffdb985fd",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_7",
@@ -7844,6 +7921,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0978",
+  "seed_hash": "370d1ad4914ea3c9f7b2a5e67f488312ae5c13ca05b6ba4c5f66c2657ecf6a90",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_8",
@@ -7946,6 +8024,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0979",
+  "seed_hash": "d6d453000a296cd490efd5de7df9fefd43e2e912dfc98139dc12b1eecb10208a",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_9",
@@ -8048,6 +8127,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0980",
+  "seed_hash": "198eb20898add93489a1bdb2cfd361aee0a455e0252bd32438c789d6b0e4b2a9",
   "family_id": "F098",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_10",
@@ -8150,6 +8230,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-S0981",
+  "seed_hash": "8cfabc0963baa1f98cf971547a6c1ac0dcc1b8d8016f7ee6aa6507fc4925c48a",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "primera_vez",
@@ -8247,6 +8328,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0982",
+  "seed_hash": "96983c798d4777d3bfa711ad4a4fa2bc3567f99ba07cf079975e74603ec38297",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_2",
@@ -8349,6 +8431,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0983",
+  "seed_hash": "95dbe52d5d75eb10a36d9366f1eec830bfe9e984fd9f4fcfc92c285deb807055",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_3",
@@ -8451,6 +8534,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0984",
+  "seed_hash": "a2f602131f3d7b1efc38bd1a864a2ef17f71569ea3963d50c788c29117a88add",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_4",
@@ -8553,6 +8637,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0985",
+  "seed_hash": "7cef020111d4f5e4898d2d02caf0d3fe9e60d26a7f314f0bbad5c06d15d297cc",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_5",
@@ -8655,6 +8740,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0986",
+  "seed_hash": "8286d09414d813ae28a43e9bbb4c632904fb4068e14086e7526a6e76e2b5732b",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_6",
@@ -8757,6 +8843,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0987",
+  "seed_hash": "3df0120123dd9a63e3281b0283ab0c026290f54aa5e1a77d7632bba266166349",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_7",
@@ -8859,6 +8946,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0988",
+  "seed_hash": "269e303b3e051af8e88a4c9ea74c724a1b65db77425d1b4bfa9d7a730d2432b9",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_8",
@@ -8961,6 +9049,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0989",
+  "seed_hash": "18085fd9b391b4ae4eee66ec4c04abaf8f38b2fdad5f3e6555f78152beff9063",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_9",
@@ -9063,6 +9152,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0990",
+  "seed_hash": "cdf23fe02a7b9681e27f04935ee8a377acdd9a3e081a8262b6bbab72a9531754",
   "family_id": "F099",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_10",
@@ -9165,6 +9255,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-S0991",
+  "seed_hash": "51ecfb4771fb431253427aab549b7eed2e731c75fc910ec60934b75e1571f122",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "primera_vez",
@@ -9262,6 +9353,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0992",
+  "seed_hash": "361c3d146ead5a3825efe09b3ad8dc58ebfcfd44c7b0f6ed4687fac1f2182cf0",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_2",
@@ -9364,6 +9456,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0993",
+  "seed_hash": "ede73e9be88b603c2145bd0df241d3d845febb0f9d1ce97c48298de18945d35e",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_3",
@@ -9466,6 +9559,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0994",
+  "seed_hash": "5fb1744155f6e104a9f6ae5326c9051432a2bf6c89e1b5e31801491ce148183a",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_4",
@@ -9568,6 +9662,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0995",
+  "seed_hash": "4c65afd76e25834863ca391d812f6f6fa8f3347f9acb04a13f0ca5fa419e627e",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_5",
@@ -9670,6 +9765,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0996",
+  "seed_hash": "a5c4fadd95fb8f48b2e129e80350db90ba9fa74ffd2e4917551656c523399a90",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_6",
@@ -9772,6 +9868,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0997",
+  "seed_hash": "32a69c956a7e4c4bbe9c9897e73956e8b3c4cc6f34dc92c1cc80c0b55797ab7b",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_7",
@@ -9874,6 +9971,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0998",
+  "seed_hash": "5b80428f00b8840d66105b85fdc9c83aced82d40e2b7b1eb7c0532f20f695db2",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_8",
@@ -9976,6 +10074,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R0999",
+  "seed_hash": "b120704b2591ee3f9458fe02f923206e5c6ed04f87d9dff6221f4f3293f55a27",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_9",
@@ -10078,6 +10177,7 @@ Registros: `0901–1000`
 ```json
 {
   "seed_id": "MILO-R1000",
+  "seed_hash": "c19557796153d1176a5a5182918fbfc44d44a4a65d89a288d6f47ae8c3e44494",
   "family_id": "F100",
   "territorio": "Conversaciones difíciles",
   "angulo": "arco_causal_10",

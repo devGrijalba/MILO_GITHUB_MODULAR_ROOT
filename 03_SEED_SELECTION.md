@@ -1,6 +1,6 @@
 # STATE 02 — SEED SELECTION
 
-Engine version: `7.0.1-MODULAR`
+Engine version: `7.0.2-MODULAR`
 
 ## OBJETIVO
 

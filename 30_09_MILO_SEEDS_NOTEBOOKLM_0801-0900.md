@@ -15,6 +15,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0801",
+  "seed_hash": "f9512a56236e96670f9c8432e061996565dca4d59e287ffc7c500715295adf8e",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_1",
@@ -117,6 +118,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0802",
+  "seed_hash": "5aad84638b657fd3f226f3ae0b575f26a49fbadfa6e959b2f9378ff25156088f",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_2",
@@ -219,6 +221,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0803",
+  "seed_hash": "852162b1965e0b6355368a2b5586a207085e7c7d33591be4722b9e1dd80ebd1e",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_3",
@@ -321,6 +324,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0804",
+  "seed_hash": "d3482e2bdcf2d54b80586ab51a7fed186950f1baf32ad2384ac35789999ac20f",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_4",
@@ -423,6 +427,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0805",
+  "seed_hash": "30050f7f0a38dd6da3f5cbe177e210936c964a541f5fb1125292429b496a856d",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_5",
@@ -525,6 +530,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0806",
+  "seed_hash": "9475a1bec56c6ab176b580ca0f742bb7efbbe6ea6dc35b6f2875c25828db16e6",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_6",
@@ -627,6 +633,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0807",
+  "seed_hash": "1ac14464916ab108d9a6ddf6fb2e40d5d1ccbdb547b8cbfe9bb4f93e54c6796a",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_7",
@@ -729,6 +736,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0808",
+  "seed_hash": "e023576f104d84655541220b8e0108f8a5625e8b18568f787e54c94105453963",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_8",
@@ -831,6 +839,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0809",
+  "seed_hash": "430fc6a73159ea9e03655fb6c2fada93dc058aaf74da8241e660b8c83fee309a",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_9",
@@ -933,6 +942,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0810",
+  "seed_hash": "010e020141a4e1f85c0c94a8e63757b357a16b22b795090699628151a835e7ac",
   "family_id": "F081",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_10",
@@ -1035,6 +1045,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0811",
+  "seed_hash": "30ecc7fb4dbb2bc761f2602c963373123086cc041e778da4001ece361a7628b0",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_1",
@@ -1137,6 +1148,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0812",
+  "seed_hash": "cd4a823eaa785d4ea01643f5c8d7516691edcb5e3fa727f1ba538e70fd8b707a",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_2",
@@ -1239,6 +1251,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0813",
+  "seed_hash": "a252c57b65863bdcc7e5988241c44b2eb10fcfbd23280e1a9b1785855289f29c",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_3",
@@ -1341,6 +1354,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0814",
+  "seed_hash": "0530ae8759c481c7cc4998f42eeb285955269c16fffa20426bddb5605636f558",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_4",
@@ -1443,6 +1457,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0815",
+  "seed_hash": "57cd5443c180c1bfa5110371318a2c0b6289aa185fb7dfe5ba641d709fd311a4",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_5",
@@ -1545,6 +1560,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0816",
+  "seed_hash": "7cae17569c640a933261f125b86f3302c96e753f7c5c1cf9abf3624302410722",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_6",
@@ -1647,6 +1663,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0817",
+  "seed_hash": "3575b3b75fad19dd76459d16e978806f8718ddd5522c66ab7933aaa905e75a75",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_7",
@@ -1749,6 +1766,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0818",
+  "seed_hash": "42c451e12654f77bc2499e68c2e78ca4c42985f2a3d2cc749b48da2cf01cb912",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_8",
@@ -1851,6 +1869,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0819",
+  "seed_hash": "bb15e2a485186674f18e661e3a6624e481c762254f0ad2b70b93a3efffb4243d",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_9",
@@ -1953,6 +1972,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0820",
+  "seed_hash": "7923f483f03acaf0b917127264568c807b4889f567ef3caf13df19a99676a6ae",
   "family_id": "F082",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_10",
@@ -2055,6 +2075,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-S0821",
+  "seed_hash": "a62e013eec00f05bb398d1ab8143ca1e4825c4d319ff326d021f8a8ef6264c2c",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "primera_vez",
@@ -2152,6 +2173,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0822",
+  "seed_hash": "c156468f6422c17163df677c860fcaeacb2fab852d807cda1c2374819810b6a9",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_2",
@@ -2254,6 +2276,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0823",
+  "seed_hash": "55c113305a24485b41bd0e7aa3aa5b121b09ae81819bd94a691cae7a71449a2c",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_3",
@@ -2356,6 +2379,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0824",
+  "seed_hash": "243855e63b3d3c013ad2ed24588d7349f655b8738cfcb82addc1a3852f0afe69",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_4",
@@ -2458,6 +2482,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0825",
+  "seed_hash": "1b89840ad8d7de68d862707762cc934501f646d241000be25c378fa43fd6d641",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_5",
@@ -2560,6 +2585,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0826",
+  "seed_hash": "adcc63f20dbc07b6184ae247bb2376c0990dad19a727e15f1afbfa740b23de29",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_6",
@@ -2662,6 +2688,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0827",
+  "seed_hash": "35af2e407785a98945125e9dd5fda3fd4d0e1c4f812b482175607d3a517c771f",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_7",
@@ -2764,6 +2791,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0828",
+  "seed_hash": "c3cf6bf622c5e38d32b87810a3a3ca4f610a01fd171747d8836484786f4ea886",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_8",
@@ -2866,6 +2894,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0829",
+  "seed_hash": "d54bbf30e6127c3a795a0d201f07992bdf839fc5c6b1565b24c3bd5446128a3f",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_9",
@@ -2968,6 +2997,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0830",
+  "seed_hash": "d8b78ff7a2a4596c11db6b40a590352470a80475c1593cfffc17cc2dc0d09e8d",
   "family_id": "F083",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_10",
@@ -3070,6 +3100,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0831",
+  "seed_hash": "786fafa59f76a6a93c07c539ee70ed0cd43c1417fa80439c377653b28811e6ce",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_1",
@@ -3172,6 +3203,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0832",
+  "seed_hash": "4f0467813561e4bab3f770cce3a9bcd53e0dfef69066ffb2aa0e13621af5de0b",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_2",
@@ -3274,6 +3306,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0833",
+  "seed_hash": "ab12242c87f2766dcf2551c0fdc78a8d26220d4208a01a7ae168b8c28b5603c4",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_3",
@@ -3376,6 +3409,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0834",
+  "seed_hash": "b1a4afe05eca011a9feedb72c0a92c7e0d35db3cc6aebe6db82574c22415c8c2",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_4",
@@ -3478,6 +3512,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0835",
+  "seed_hash": "bba58e7e1086dcf4f560f8ba94e2375f4fb99b919b07f88ad40d02a2e6080da5",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_5",
@@ -3580,6 +3615,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0836",
+  "seed_hash": "da90b02c4f6f9dd820a03b7e489c37432246a8a7aa3c7f766f4a20f88adc8dc6",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_6",
@@ -3682,6 +3718,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0837",
+  "seed_hash": "db73414dccea0b7811b2ff154f4844f4865cbccc34a318ee44fa9b611bf5bc35",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_7",
@@ -3784,6 +3821,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0838",
+  "seed_hash": "f150742e6fdcb6b42515bec666613ec9a2eaec809904501e89527ee752d60796",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_8",
@@ -3886,6 +3924,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0839",
+  "seed_hash": "e96221f2ad698b0d041ed95708891ac77d68353fda2a74bd8bc7bb6c0ff2325f",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_9",
@@ -3988,6 +4027,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0840",
+  "seed_hash": "3b1ecc0f85f5a46e5206f1c98d1037ccade521e3a11bec8a6176b04785506522",
   "family_id": "F084",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_10",
@@ -4090,6 +4130,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-S0841",
+  "seed_hash": "b1ccb57b12b312ec3badd007d9a0ba7863973d77f0ac2a50b8f370242361ffdb",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "primera_vez",
@@ -4187,6 +4228,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0842",
+  "seed_hash": "cf11c1a5c793de764e54a369432c254ef855e711b29987e41545688bedc10f4a",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_2",
@@ -4289,6 +4331,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0843",
+  "seed_hash": "c9476a6494149dce6f12035e5b3c11e8b618f73e45c563cd33e1f58d2e8baf7a",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_3",
@@ -4391,6 +4434,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0844",
+  "seed_hash": "2d87b2e6a2f67e4af5642e6786e3fee85df09e59be9a6dfdde352ba97682e36b",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_4",
@@ -4493,6 +4537,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0845",
+  "seed_hash": "4303b5db60f2f62ce193fc02c6be21dd846a4d228fa3fe578559d6c4e4fc4d40",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_5",
@@ -4595,6 +4640,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0846",
+  "seed_hash": "1f398ad75475a05e4a5f95891053471a13d28bbe0029bb403b098b4fad638000",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_6",
@@ -4697,6 +4743,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0847",
+  "seed_hash": "91e7075ba9d2aee7672400c12fc40bae5230752e8007ec24e1d06dc9b40a878e",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_7",
@@ -4799,6 +4846,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0848",
+  "seed_hash": "54614b8a6f4607b51825039fd8bdb1595abf237dc7b1137b65d8d17bb02d817f",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_8",
@@ -4901,6 +4949,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0849",
+  "seed_hash": "b0494afd26e01ddb2be486cba04e5ea0cfc9b8ecc1d1b3f3342db816dfdd0e84",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_9",
@@ -5003,6 +5052,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0850",
+  "seed_hash": "49e0e21d6f395938416ac4a9d1a1ea72c47502fe813e514c3231c9471ef33f9c",
   "family_id": "F085",
   "territorio": "Rituales familiares",
   "angulo": "arco_causal_10",
@@ -5105,6 +5155,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-S0851",
+  "seed_hash": "a60c2ff150d2e95471306d27079144a4f4880fa04dd1cdfc2e39a02f8270e0d4",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "primera_vez",
@@ -5202,6 +5253,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0852",
+  "seed_hash": "4ac6f7c83964a74af55a7dd9a530883ba83e103964d93680dffdf613a9b9cec9",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_2",
@@ -5304,6 +5356,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0853",
+  "seed_hash": "aaf8372a9c8cec7e3fa216b7e2a6547c42ae3138f861a243e851f10719e18209",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_3",
@@ -5406,6 +5459,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0854",
+  "seed_hash": "0b06e106e2f749c00525b3a2a369961949378228fcae626cb6fd76448d1c2712",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_4",
@@ -5508,6 +5562,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0855",
+  "seed_hash": "930d11daeebfdd0975791b593b27ce927c20254fe1d565bdf365e90d7866c13a",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_5",
@@ -5610,6 +5665,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0856",
+  "seed_hash": "9d6a8c26b1e86aafe1273488830c91917b570a44b9aa168b6536707fe8279567",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_6",
@@ -5712,6 +5768,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0857",
+  "seed_hash": "c484a49926066392a48e6780b6fcad88fc2e111ea1f3866eb3028e15bf065711",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_7",
@@ -5814,6 +5871,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0858",
+  "seed_hash": "0d9c8d6d3401d9547d745ca6118cfeb59993bfb63342481a7d9ff31c8db8c072",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_8",
@@ -5916,6 +5974,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0859",
+  "seed_hash": "4c495a278596914c7df69b785ea1f119d149dabacd3cc88891a8c1fc1027d663",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_9",
@@ -6018,6 +6077,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0860",
+  "seed_hash": "35cec342e6eb7e4a05980a662e3251f3931e1bf64d0f624d52e1542dfd685347",
   "family_id": "F086",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_10",
@@ -6120,6 +6180,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0861",
+  "seed_hash": "d7cf62f380b259ddd91d09ca06e93195c3b1d942fb3b5beadf2570d91878ccec",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_1",
@@ -6222,6 +6283,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0862",
+  "seed_hash": "4bd3789aef1b40f3907c27134b4f6c35d566a9d221d4773ecfa4871f2556d229",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_2",
@@ -6324,6 +6386,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0863",
+  "seed_hash": "2578b3cf03cdd941a0d3e565f05f1cd076f1b51cda47640f2275371da6627d2c",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_3",
@@ -6426,6 +6489,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0864",
+  "seed_hash": "6046250ca0cd0b7fa1e2651f438afc4b478f4cf7a5c3407f294b539474aa4e7d",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_4",
@@ -6528,6 +6592,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0865",
+  "seed_hash": "61c7465509d8be2d1b9610669edb009e3e850c6c446aaa26533c0c3dcdd9ae0a",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_5",
@@ -6630,6 +6695,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0866",
+  "seed_hash": "23cf81b1f63c90d80376a91913ea7cf0dee7ecf4f7153d9ba954f00938bdd454",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_6",
@@ -6732,6 +6798,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0867",
+  "seed_hash": "c64b91e121558c171136270eec03ffec7b6ceb76040425dd762836cd81c36a1c",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_7",
@@ -6834,6 +6901,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0868",
+  "seed_hash": "e3780fb1974e8a4d9cd7d61f86f1431381637f87f687912f6b65138a91f6e51f",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_8",
@@ -6936,6 +7004,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0869",
+  "seed_hash": "419b30965eebf88be736badafc259ae8485646e833df988d12bbb1747c139a3e",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_9",
@@ -7038,6 +7107,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0870",
+  "seed_hash": "d3b8da4c2720928e94a5a7b1c870396ddec5126e2c75ba2d321418448acc556c",
   "family_id": "F087",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_10",
@@ -7140,6 +7210,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0871",
+  "seed_hash": "9d31bcaa55c1d525809df0dc61217b8ad3f0c624b7ec93026a0e63d74ff8aa45",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_1",
@@ -7242,6 +7313,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0872",
+  "seed_hash": "9743fee1e241baf5e470aebb06ea1ae926d58e28b440880b1cd13bf8c4dd54b7",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_2",
@@ -7344,6 +7416,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0873",
+  "seed_hash": "7ff90c22eb5226682ca7bac87fe0236aaa5badfc98efe6dce56ea58a2eeee502",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_3",
@@ -7446,6 +7519,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0874",
+  "seed_hash": "eb5326eeea1169969e669dbd7450c93b69484db8c584031f1bb50e81d1bdd61e",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_4",
@@ -7548,6 +7622,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0875",
+  "seed_hash": "0e1e00bf5402ef0478e45a98d8df51b0e7010c30bbcb1119f729270bcc1365e6",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_5",
@@ -7650,6 +7725,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0876",
+  "seed_hash": "3e07301ce90f236e4f243d0b74cf6d4e2de0334ec69a6500736b6b709bc91414",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_6",
@@ -7752,6 +7828,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0877",
+  "seed_hash": "0bd910f07b53c346c0e9b3c16ea9415d70880ae469b31b5329f6e96d37b69fc8",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_7",
@@ -7854,6 +7931,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0878",
+  "seed_hash": "16fd1eeb509aaa7316c798b6b860e9e106e90129952549e525c542b6a4f62f0e",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_8",
@@ -7956,6 +8034,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0879",
+  "seed_hash": "7c137878342c6eb71d8bfe53a1844f0e96c5e195131d7121a187c62103234b83",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_9",
@@ -8058,6 +8137,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0880",
+  "seed_hash": "6374804430d307f8c939b979b241aa25a7ece89a3c2052ed79c0ed0279977412",
   "family_id": "F088",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_10",
@@ -8160,6 +8240,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0881",
+  "seed_hash": "3ebf068859b60e5178d0b6024a05466f695c46e9ce7fbda6f4ece4433a79edf0",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_1",
@@ -8262,6 +8343,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0882",
+  "seed_hash": "780438dbde2e492a18a7c610f127fd5992da49b34e63aebc67afeb5d3bbbd34f",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_2",
@@ -8364,6 +8446,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0883",
+  "seed_hash": "5c867be9c97ee96ae4df2713341bbea772fcee81434b9a0d723d612919885ed3",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_3",
@@ -8466,6 +8549,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0884",
+  "seed_hash": "28cf650d06dc0c652871fccfee2f94bb82bdffd4c10a96c56103ef725159d5d9",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_4",
@@ -8568,6 +8652,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0885",
+  "seed_hash": "50296aba0b5ba39d1a0a69b7d5f72dbc38b287f6f6f9a354cd494c6f6a5a2aa6",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_5",
@@ -8670,6 +8755,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0886",
+  "seed_hash": "f564fc5c523c18acedaa3953623ea5658f859eafe12c183a51c7eef37a36f2cf",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_6",
@@ -8772,6 +8858,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0887",
+  "seed_hash": "2cc043935427af2cccbef0df36d1dacea5feba84d843997b4c585e2b893ed9fe",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_7",
@@ -8874,6 +8961,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0888",
+  "seed_hash": "78c3d396dc5622415514bd6f32abcd7205f0175f2e68f3f5f65127d511be2e0d",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_8",
@@ -8976,6 +9064,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0889",
+  "seed_hash": "d0f775a0daf7611c6dc6f469df64e807d59081b9ec8153231b2b52ddcc0ffb4c",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_9",
@@ -9078,6 +9167,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0890",
+  "seed_hash": "578af416ac061eea37a5ccd491ba5b44ddc1add0391f338ce5dfc17f31b1b97e",
   "family_id": "F089",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_10",
@@ -9180,6 +9270,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0891",
+  "seed_hash": "62afb4c683b96d4d18eac61dd4a83cf22d5c84adf9231f70fe7123138a64fe52",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_1",
@@ -9282,6 +9373,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0892",
+  "seed_hash": "e80ae6dc46f7904b1a18a2005df4ddd3bfed367f1925bb85e0427ec6d41a3c88",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_2",
@@ -9384,6 +9476,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0893",
+  "seed_hash": "f72e0617d66c107190660edb0ebc0c760d01b6c54eb819729597186f5065a67e",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_3",
@@ -9486,6 +9579,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0894",
+  "seed_hash": "e7566dd584fbda66c7a9db8d8a4810af9d13ef6655589304d2a489ce45b8112a",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_4",
@@ -9588,6 +9682,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0895",
+  "seed_hash": "523070ae4b896b926deb48a1a4fb7ccbef30452d70a64cb33b5a1b50e2b8a4f3",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_5",
@@ -9690,6 +9785,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0896",
+  "seed_hash": "af69f5f0e7f44a0efba3d8ab6c54be3eda879bfc409166fc1a4701049218e526",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_6",
@@ -9792,6 +9888,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0897",
+  "seed_hash": "7bb28529d4a4751ad1aefacccff2e735de801995fe622eeec8d0cb14692d0f9c",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_7",
@@ -9894,6 +9991,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0898",
+  "seed_hash": "6501d56551343c3f15eae1d8645fd4954581e0d93c63b91ebfbaf2d1fb37da06",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_8",
@@ -9996,6 +10094,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0899",
+  "seed_hash": "55adcc090a32d369cf0715d656c43c7492a977b86d2bfe2aefa8891ead16ca22",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_9",
@@ -10098,6 +10197,7 @@ Registros: `0801–0900`
 ```json
 {
   "seed_id": "MILO-R0900",
+  "seed_hash": "27a8e526293067bbf74b39012a7cf35aa663b590badc0c2efa7046b23f121991",
   "family_id": "F090",
   "territorio": "Humor doméstico",
   "angulo": "arco_causal_10",
