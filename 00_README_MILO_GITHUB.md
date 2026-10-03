@@ -32,7 +32,7 @@ La ejecución debe congelar una versión de engine al inicio.
 
 Versión actual:
 
-`MILO_ENGINE_VERSION = 7.0.0-MODULAR`
+`MILO_ENGINE_VERSION = 7.0.1-MODULAR`
 
 El archivo de entrada principal es:
 
@@ -59,3 +59,12 @@ No inventar campos.
 Cada módulo debe ser consultado únicamente cuando el router lo indique.
 
 El LLM NO debe cargar todos los módulos simultáneamente salvo que el entorno lo requiera explícitamente.
+
+
+## CAMBIOS 7.0.1
+
+- agregado `21_SEED_PRIORITY_INDEX.md`;
+- agregado `22_SERIES_STATE.md`;
+- selección automática ya no escanea 1000 semillas;
+- ausencia de historial ya no puede bloquear;
+- STATE 02 usa índice precomputado + estado explícito.

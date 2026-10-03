@@ -1,6 +1,6 @@
 # MILO ENGINE MANIFEST
 
-engine_version: `7.0.0-MODULAR`
+engine_version: `7.0.1-MODULAR`
 
 ## ORDEN DE ESTADOS
 
@@ -10,8 +10,10 @@ Leer:
 
 ### STATE 02 — SEED_SELECTION
 Leer:
+- `21_SEED_PRIORITY_INDEX.md`
+- `22_SERIES_STATE.md`
 - `03_SEED_SELECTION.md`
-- archivo de semillas correspondiente al rango
+- archivo de semillas correspondiente al rango seleccionado
 
 ### STATE 03 — SEED_NORMALIZATION
 Leer:
@@ -56,8 +58,7 @@ Solo cuando se pruebe o depure:
 
 ## REGLA DE CARGA
 
-No saltar estados.
-
-No considerar PASS un estado sin consultar sus módulos obligatorios.
-
-No emitir artefacto final antes de STATE 09.
+- No saltar estados.
+- No considerar PASS un estado sin consultar sus módulos obligatorios.
+- No emitir artefacto final antes de STATE 09.
+- La selección automática NO debe escanear las 1000 seeds si existe `21_SEED_PRIORITY_INDEX.md`.

@@ -1,25 +1,60 @@
 # STATE 02 — SEED SELECTION
 
+Engine version: `7.0.1-MODULAR`
+
+## OBJETIVO
+
+Seleccionar una seed válida sin escanear innecesariamente las 1000 semillas.
+
+## FUENTES OBLIGATORIAS DEL ESTADO
+
+Leer:
+
+1. `21_SEED_PRIORITY_INDEX.md`
+2. `22_SERIES_STATE.md`
+3. este archivo
+
 ## AUTO-SEED_SELECTION
 
-Cuando no se especifica seed:
+Cuando el usuario no especifica seed:
 
-Criterios normales:
+1. Leer `22_SERIES_STATE.md`.
+2. Definir:
+   - `used_seed_ids`
+   - `last_family_id`
+3. Si no existe historial verificable:
+   - `used_seed_ids = []`
+   - `last_family_id = null`
+   - CONTINUAR
+4. Leer `21_SEED_PRIORITY_INDEX.md`.
+5. Recorrer el índice desde arriba.
+6. Seleccionar la primera seed que:
+   - no esté en `used_seed_ids`;
+   - no repita `last_family_id` cuando `last_family_id` no sea null y exista alternativa válida;
+   - tenga registro completo disponible.
+7. Abrir únicamente el archivo de seeds correspondiente al rango de esa seed.
+8. Recuperar el registro completo.
+9. Validar identidad.
+10. Continuar a STATE 03.
 
-- `revision.elegible == true`
-- `revision.compuesto >= 85`
-- `revision.calidad >= 80`
-- `revision.afinidad >= 85`
+## REGLA CRÍTICA DE HISTORIAL
 
-Orden por defecto:
+La ausencia de historial:
 
-1. `revision.compuesto` descendente
-2. `seed_id` ascendente
+- NO es error;
+- NO es ambigüedad;
+- NO requiere búsqueda adicional;
+- NO autoriza OUTPUT_BLOCKED.
 
-Si existe historial verificable de una familia usada inmediatamente antes:
-- evitar repetir la misma familia cuando exista otra opción válida comparable.
+Si:
 
-No inventar historial.
+```text
+last_approved_episode: null
+used_seed_ids: []
+last_family_id: null
+```
+
+entonces la selección usa simplemente la primera seed válida del índice.
 
 ## SI EL USUARIO INDICA SEED
 
@@ -42,7 +77,7 @@ No sustituir silenciosamente.
 
 ## RESULTADOS
 
-Seed completa y elegible:
+Seed completa y compatible:
 `PASS`
 
 Seed pedida no existe:
@@ -50,3 +85,5 @@ Seed pedida no existe:
 
 Registro incompleto:
 `FAIL_CRITICAL`
+
+No usar OUTPUT_BLOCKED por ausencia de historial.

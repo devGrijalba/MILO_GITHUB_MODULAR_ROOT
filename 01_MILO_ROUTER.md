@@ -1,5 +1,7 @@
 # MILO ROUTER
 
+Engine version: `7.0.1-MODULAR`
+
 Este archivo controla el flujo modular.
 
 ## ENTRADA NORMAL
@@ -22,6 +24,26 @@ o equivalente:
    `OUTPUT_BLOCKED`;
 10. si todos los estados pasan:
    emitir usando `14_OUTPUT_CONTRACT.md`.
+
+## STATE 02 — REGLA ESPECIAL
+
+La selección automática debe usar:
+
+- `21_SEED_PRIORITY_INDEX.md`
+- `22_SERIES_STATE.md`
+
+No volver a escanear las 1000 seeds para encontrar un máximo global.
+
+Si el estado de serie está vacío:
+
+```text
+used_seed_ids = []
+last_family_id = null
+```
+
+continuar normalmente.
+
+La ausencia de historial nunca bloquea.
 
 ## ESTADOS
 
